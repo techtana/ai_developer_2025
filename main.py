@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, render_template
 
 # Import Blueprints
 from solution_building.update_model import update_model_bp
@@ -14,7 +14,7 @@ def create_app():
 
     @app.route("/", methods=["GET"])
     def index():
-        return {"message": "AI Developer 2025 Flask API is running."}
+        return render_template("index.html")
     
     return app
 

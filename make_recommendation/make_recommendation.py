@@ -28,7 +28,11 @@ example_output = {
 @make_recommendation_bp.route('/make_recommendation', methods=['POST', 'GET'])
 def make_recommendation():
     if request.method == 'GET':
-        return jsonify({"status": "success", "data": example_output}), 200
+        return (jsonify({"status": "success", 
+                            "data": {
+                                "example_input": example_input,
+                                "example_output": example_output,
+                            }}), 200)
     elif request.method == 'POST':
         data = request.get_json()
         # Here you would process the input and generate recommendations
