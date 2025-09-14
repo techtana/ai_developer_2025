@@ -2,7 +2,8 @@
 from flask import Flask, render_template, request, jsonify
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from config.config import DB_URI
+from config.config import DB_URI, GW_URL, PROJECT_NAME, USER_SESSION
+import requests
 
 # Import Blueprints
 from funcs.create_questionaire import get_most_recent_activity
@@ -45,15 +46,38 @@ def create_app():
         }
 
         # TODO @Nimesh: send response to llm #1
-        # prompt = use_llm_1(responses)
+        prompt = use_llm_1(responses)
 
 
         # TODO @Tech: send feedback and llm #1 response to llm #2
-        
+        _count = 0
+        response = requests.post(
+            f"{GW_URL}/hackathon/{PROJECT_NAME}/batch/{USER_SESSION}", 
+            json = {
+                "batch_count": 1,
+                "events": [
+                    { "event": "abstract interest",
+                        "properties": {
+                            "organization_id": "fly_finder",
+                            "visitor_id": "6ee0e958-adb0-49b4-8415-31556bef71e9",
+                            "session_id": "d9a510fb-10a9-4c76-981e-9988559142f8",
+                            "id": "02J0",
+                            "weight": 4
+                        }
+                    },
+                ],
+                "page": _count,
+                "search_prompt": prompt
+                }
+        )
 
 
         # Here you would process the input and generate recommendations
-        return render_template("user.html", data=data)
+        return render_template("user.html", data=response)
+    
+    @app.route('/test_result', methods=['POST'])
+    def test_result():
+        return render_template("test_result.html")
         
     return app
 
