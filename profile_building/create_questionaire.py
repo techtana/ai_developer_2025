@@ -1,6 +1,4 @@
-from flask import Blueprint, request, jsonify
-
-create_questionaire_bp = Blueprint('create_questionaire', __name__)
+import sqlalchemy as sa
 
 example_data = {
     "prev_recommendations": {
@@ -9,11 +7,10 @@ example_data = {
         "reason": "To better health"
     }
 }
+def create_questionaire(uid):
+    # get last recommendations for uid
 
-@create_questionaire_bp.route('/create_questionaire', methods=['POST', 'GET'])
-def update_profile():
-    if request.method == 'GET':
-        return jsonify({"status": "success", "data": example_data}), 200
-    elif request.method == 'POST':
-        data = request.get_json()
-        return jsonify({"status": "success", "data": data}), 200
+
+    return {
+
+    }

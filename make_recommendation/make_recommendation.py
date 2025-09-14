@@ -35,5 +35,21 @@ def make_recommendation():
                             }}), 200)
     elif request.method == 'POST':
         data = request.get_json()
+        # split data into feedback and current_state
+        feedback = {
+            'user_id': data.get("user_id", {}),
+            'feedback': data.get("prev_recommendations", {})
+        }
+        responses = {
+            'user_id': data.get("user_id", {}),
+            'response': data.get("responses", {})
+        }
+
+        # send response to llm #1
+        
+
+        # send feedback and llm #1 response to llm #2
+
+
         # Here you would process the input and generate recommendations
         return jsonify({"status": "success", "data": data}), 200
