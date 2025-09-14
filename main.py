@@ -23,7 +23,7 @@ def create_app():
         return render_template("directory.html")
 
 
-    @app.route("/<uid>", methods=["GET"])
+    @app.route("/user", methods=["GET"])
     def user(uid):
         with SessionLocal() as session:
             prev_rec = get_most_recent_activity(session, uid)
