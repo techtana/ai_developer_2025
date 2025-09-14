@@ -1,1302 +1,1202 @@
 [
     {
-        "title": "Progressive Muscle Relaxation",
-        "description": "A systematic technique that involves tensing and then releasing different muscle groups throughout your body. Start with your toes and work your way up to your head, holding each tension for 5 seconds before releasing. This practice helps reduce physical stress and anxiety by teaching your body the difference between tension and relaxation. Regular practice can improve sleep quality, reduce chronic pain, and lower overall stress levels. The technique is particularly effective for those who carry stress physically in their muscles.",
-        "image_url": "https://example.com/images/progressive-muscle-relaxation.jpg",
-        "external_url": "https://www.headspace.com/meditation/techniques/progressive-muscle-relaxation",
+        "title": "Box Breathing Technique",
+        "description": "Box breathing is a simple yet powerful technique for calming the mind and reducing stress. To practice, sit in a comfortable position, inhale deeply through your nose for four counts, hold your breath for four counts, exhale slowly through your mouth for four counts, and hold again for four counts. Repeat this cycle for 5–10 minutes. This structured breathing slows down your nervous system, stabilizes emotions, and helps you regain focus. It’s particularly effective when you feel anxious, overwhelmed, or in need of quick recovery. Regular practice also builds resilience against stress, making it easier to stay calm in difficult situations.",
         "id": "solution_001",
         "metadata": [
-            {"name": "emotion", "value": "anxiety"},
-            {"name": "duration", "value": "15-20 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Gratitude Journaling",
-        "description": "Write down three things you're grateful for each day, focusing on specific details rather than general statements. This practice rewires your brain to notice positive aspects of life more readily. Research shows that consistent gratitude journaling can increase happiness levels by up to 25% and improve sleep quality. Include why you're grateful for each item and how it made you feel. The key is consistency and specificity - rather than writing 'my family,' write 'the way my partner made me laugh during dinner last night.'",
-        "image_url": "https://example.com/images/gratitude-journaling.jpg",
-        "external_url": "https://www.berkeley.edu/news/media/releases/2005/02/18_gratitude.shtml",
+        "title": "Guided Meditation",
+        "description": "Guided meditation helps you detach from intrusive thoughts and reconnect with a calmer mental state. By listening to a soothing voice guide, you can follow prompts to focus on your breath, visualize calming imagery, or release tension from your body. Sessions typically last from 5 to 30 minutes, making it easy to fit into a daily routine. Guided meditation is especially useful if you struggle with racing thoughts or find it difficult to meditate alone. It creates a safe structure for letting go of stress and is effective for enhancing self-awareness, sleep quality, and overall emotional regulation.",
         "id": "solution_002",
         "metadata": [
-            {"name": "emotion", "value": "depression"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Box Breathing Technique",
-        "description": "A powerful breathing method used by Navy SEALs and athletes to maintain calm under pressure. Inhale for 4 counts, hold for 4 counts, exhale for 4 counts, and hold empty for 4 counts. Visualize drawing a box with your breath. This technique activates your parasympathetic nervous system, reducing cortisol levels and promoting a state of calm alertness. Practice for 5-10 cycles whenever you feel overwhelmed or need to center yourself. It's particularly effective before important meetings or stressful situations.",
-        "image_url": "https://example.com/images/box-breathing.jpg",
-        "external_url": "https://www.healthline.com/health/box-breathing",
+        "title": "Nature Walk",
+        "description": "Walking in nature is a grounding practice that reduces stress, clears your mind, and reconnects you with your surroundings. Find a local park, hiking trail, or quiet neighborhood with greenery and commit to a 20–30 minute walk without distractions. Focus on the colors, sounds, and textures around you. Research shows that spending time outdoors lowers cortisol levels, improves mood, and boosts creativity. This activity is particularly effective when you’re mentally drained but have some physical energy to spare. It can also help reset your circadian rhythm and improve sleep if done in daylight.",
         "id": "solution_003",
         "metadata": [
-            {"name": "emotion", "value": "stress"},
-            {"name": "duration", "value": "2-5 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Cold Water Face Plunge",
-        "description": "Fill a bowl with cold water and immerse your face for 30 seconds, or splash cold water on your face and temples. This activates the dive response, which slows your heart rate and activates the parasympathetic nervous system. It's particularly effective for acute anxiety or panic attacks. The cold temperature stimulates the vagus nerve, which helps regulate your body's stress response. Follow up with slow, deep breathing. This technique provides almost immediate relief from overwhelming emotions and helps reset your nervous system.",
-        "image_url": "https://example.com/images/cold-water-therapy.jpg",
-        "external_url": "https://www.verywellmind.com/cold-water-therapy-anxiety-5323350",
+        "title": "Journaling for Clarity",
+        "description": "Journaling allows you to process emotions by writing them out instead of keeping them bottled up. Spend 10–15 minutes writing freely about how you feel, without worrying about grammar or structure. You might reflect on what triggered your emotions, list what you’re grateful for, or simply record events of your day. The act of writing helps you slow down racing thoughts, gain clarity on your mental state, and see patterns over time. Journaling is especially useful if you’re overwhelmed or uncertain, as it externalizes thoughts and creates a safe outlet for self-expression.",
         "id": "solution_004",
         "metadata": [
-            {"name": "emotion", "value": "panic"},
-            {"name": "duration", "value": "1-2 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "home/bathroom"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Walking Meditation",
-        "description": "Practice mindful walking by focusing on each step, the sensation of your feet touching the ground, and your body's movement through space. Walk slower than usual, coordinating your breathing with your steps. This combines the benefits of physical movement with mindfulness practice. Start with 10-15 minutes in a quiet space, gradually increasing duration. Pay attention to how your weight shifts, how your muscles engage, and the rhythm of your movement. This practice is excellent for those who struggle with sitting meditation.",
-        "image_url": "https://example.com/images/walking-meditation.jpg",
-        "external_url": "https://www.mindful.org/how-to-practice-walking-meditation/",
+        "title": "Progressive Muscle Relaxation",
+        "description": "Progressive muscle relaxation (PMR) helps release tension stored in the body by systematically tensing and relaxing different muscle groups. Start from your toes, tightly contract the muscles for 5–7 seconds, then release and notice the sensation of relaxation. Work your way up through calves, thighs, abdomen, shoulders, arms, and face. This method calms both mind and body, making it particularly useful for anxiety, insomnia, and high stress levels. Practicing PMR before bedtime often leads to deeper, more restorative sleep. It is also effective for increasing body awareness and recognizing where stress accumulates physically.",
         "id": "solution_005",
         "metadata": [
-            {"name": "emotion", "value": "restlessness"},
-            {"name": "duration", "value": "10-30 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "outdoors"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "The 5-4-3-2-1 Grounding Technique",
-        "description": "When feeling overwhelmed or disconnected, identify 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. This technique brings you back to the present moment by engaging all your senses. It's particularly effective for anxiety, dissociation, or when feeling emotionally overwhelmed. Take your time with each sense, really focusing on the details of what you're experiencing. This practice helps interrupt anxious thoughts and grounds you in physical reality.",
-        "image_url": "https://example.com/images/grounding-technique.jpg",
-        "external_url": "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety.aspx",
+        "title": "Mindful Tea Ritual",
+        "description": "Turning the act of making tea into a mindful ritual can help you slow down and ground yourself in the present. Choose a tea you enjoy, pay attention to the aroma, watch the steam rise, and take slow sips while focusing on the warmth and flavor. This small daily practice provides a gentle pause in a hectic day, encouraging you to reset mentally and emotionally. Beyond stress relief, mindful rituals cultivate patience and appreciation for simple pleasures. It’s best for moments when you need recovery but don’t want a demanding practice.",
         "id": "solution_006",
         "metadata": [
-            {"name": "emotion", "value": "overwhelm"},
-            {"name": "duration", "value": "3-5 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Expressive Writing",
-        "description": "Set a timer for 15-20 minutes and write continuously about your thoughts and feelings without worrying about grammar, spelling, or structure. Don't censor yourself - let everything flow onto the page. This practice helps process difficult emotions, gain clarity on confusing situations, and release mental tension. Research shows that expressive writing can boost immune function, reduce stress, and improve mental health. After writing, you can choose to keep, reflect on, or safely discard what you've written. The act of writing itself is therapeutic.",
-        "image_url": "https://example.com/images/expressive-writing.jpg",
-        "external_url": "https://psychcentral.com/health/benefits-of-expressive-writing",
+        "title": "Dance Break",
+        "description": "Dancing is an excellent way to release pent-up energy and elevate your mood. Put on a song you love, clear some space, and let yourself move freely for 5–10 minutes. The act of moving your body to rhythm boosts endorphins, reduces muscle tension, and fosters self-expression. You don’t need to be a skilled dancer—this practice is about joy and release, not performance. It’s especially helpful when you’re feeling sluggish, stuck, or emotionally heavy and need a quick, fun reset. Dancing regularly also improves coordination and body confidence.",
         "id": "solution_007",
         "metadata": [
-            {"name": "emotion", "value": "confusion"},
-            {"name": "duration", "value": "15-20 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "private space"}
-        ]
-    },
-    {
-        "title": "Visualization for Confidence",
-        "description": "Close your eyes and vividly imagine yourself successfully handling a challenging situation. Engage all your senses - see yourself looking confident, hear supportive voices, feel the sensation of success. Spend 10-15 minutes creating detailed mental rehearsals of positive outcomes. This technique helps build neural pathways associated with confidence and success. Athletes use visualization to improve performance, and the same principles apply to emotional states. The more detailed and emotionally engaging your visualization, the more effective it becomes.",
-        "image_url": "https://example.com/images/confidence-visualization.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/flourish/200912/seeing-is-believing-the-power-visualization",
-        "id": "solution_008",
-        "metadata": [
-            {"name": "emotion", "value": "low confidence"},
-            {"name": "duration", "value": "10-15 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "quiet space"}
-        ]
-    },
-    {
-        "title": "Laughter Yoga",
-        "description": "Practice deliberate laughter exercises, starting with forced laughter that often becomes genuine. Try different types of laughter - hearty belly laughs, silent laughter, or gradient laughter that builds in intensity. Laughter releases endorphins, reduces stress hormones, and boosts immune function. Even forced laughter provides physiological benefits because your body can't distinguish between genuine and fake laughter. Combine with simple stretching or clapping for added benefit. This practice is especially powerful when done with others but works solo too.",
-        "image_url": "https://example.com/images/laughter-yoga.jpg",
-        "external_url": "https://laughteryoga.org/",
-        "id": "solution_009",
-        "metadata": [
-            {"name": "emotion", "value": "sadness"},
-            {"name": "duration", "value": "5-15 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "4"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "4"}
         ]
     },
     {
         "title": "Digital Detox Hour",
-        "description": "Commit to one hour daily without screens, phones, or digital devices. Use this time for activities that nourish your mind and body - reading, drawing, gardening, or simply sitting in nature. This break from digital stimulation allows your nervous system to reset and reduces the anxiety that comes from constant connectivity. Notice how you feel during and after this hour. Many people report improved sleep, better concentration, and reduced anxiety after implementing regular digital detox periods.",
-        "image_url": "https://example.com/images/digital-detox.jpg",
-        "external_url": "https://www.healthline.com/health/digital-detox",
+        "description": "Taking an intentional break from screens helps reduce information overload and lowers stress. Choose one hour of your day to put away your phone, computer, and TV. Instead, engage in an offline activity such as reading, drawing, cooking, or simply resting. This detox helps reset your brain’s reward pathways, making you less reactive to constant notifications. It’s especially useful for reducing anxiety, improving attention span, and reconnecting with activities that bring genuine joy. Over time, this practice can significantly improve sleep quality and mental well-being.",
+        "id": "solution_008",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Gratitude List",
+        "description": "Writing down three things you are grateful for each day is a simple yet powerful way to shift your mindset. Gratitude practices help you focus on positive aspects of your life, no matter how small. This can reduce feelings of stress, envy, or negativity and cultivate a more optimistic outlook over time. It’s particularly effective during periods of emotional heaviness or self-doubt, offering a reminder of what’s still working well. Keeping a gratitude journal also strengthens resilience and enhances overall life satisfaction.",
+        "id": "solution_009",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Cold Shower Reset",
+        "description": "Taking a short cold shower can shock your system in a beneficial way, increasing alertness and reducing symptoms of stress or depression. The sudden drop in temperature stimulates blood circulation, releases endorphins, and can help reduce inflammation in the body. Cold showers are especially helpful if you’re feeling sluggish, mentally foggy, or stuck in negative thought loops. While initially uncomfortable, they provide a quick and invigorating reset, often leaving you feeling sharper and more energized for hours afterward.",
         "id": "solution_010",
         "metadata": [
-            {"name": "emotion", "value": "overwhelm"},
-            {"name": "duration", "value": "60 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere offline"}
+            {"name": "energy", "value": "4"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "5"}
         ]
     },
     {
-        "title": "Loving-Kindness Meditation",
-        "description": "Begin by directing loving thoughts toward yourself, then gradually expand to loved ones, neutral people, difficult people, and finally all beings. Start with phrases like 'May I be happy, may I be peaceful, may I be free from suffering.' This practice cultivates compassion and reduces negative emotions toward others and yourself. Research shows it can increase positive emotions, reduce implicit bias, and improve social connectedness. Spend 2-3 minutes on each category of people, visualizing them and genuinely wishing them well.",
-        "image_url": "https://example.com/images/loving-kindness-meditation.jpg",
-        "external_url": "https://ggia.berkeley.edu/practice/loving_kindness_meditation",
+        "title": "Stretching Flow",
+        "description": "Engaging in a 10–15 minute stretching flow helps release built-up tension and improves blood circulation. Start with gentle neck rolls, move through shoulder stretches, and continue down the spine, hips, and legs. Focus on breathing deeply as you stretch, allowing your body to open up gradually. This routine is especially helpful if you’ve been sitting for long periods or carrying stress in your muscles. Stretching boosts flexibility, improves posture, and gives you a refreshing sense of renewal without demanding too much physical effort.",
         "id": "solution_011",
         "metadata": [
-            {"name": "emotion", "value": "resentment"},
-            {"name": "duration", "value": "15-20 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "quiet space"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Power Posing",
-        "description": "Stand in a confident posture for 2 minutes - feet shoulder-width apart, hands on hips or raised above your head, chin slightly lifted. This 'Wonder Woman' pose can increase testosterone and decrease cortisol levels, leading to increased confidence and reduced stress. The physical act of taking up space influences your mental state. Before important meetings or challenging situations, spend 2 minutes in a private space assuming this powerful stance while taking deep breaths and positive affirmations.",
-        "image_url": "https://example.com/images/power-posing.jpg",
-        "external_url": "https://www.health.harvard.edu/blog/why-you-should-stand-like-a-superhero-2020112021459",
+        "title": "Visualization Practice",
+        "description": "Visualization is a mental exercise where you imagine a peaceful scene or a successful outcome in vivid detail. Close your eyes, breathe deeply, and picture yourself in a calming environment such as a beach, forest, or mountain. Alternatively, imagine yourself confidently handling a challenge. By engaging the senses in your imagination, you trick the brain into experiencing the calm or confidence you’re visualizing. This practice reduces stress, improves focus, and boosts motivation. It’s especially powerful for shifting perspective during emotionally challenging times.",
         "id": "solution_012",
         "metadata": [
-            {"name": "emotion", "value": "low confidence"},
-            {"name": "duration", "value": "2-5 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Bilateral Stimulation Tapping",
-        "description": "Alternate tapping your hands on your thighs or shoulders while thinking about a stressful situation. This engages both brain hemispheres and can help process difficult emotions. Tap for 30 seconds to 2 minutes while focusing on the issue at hand. This technique, adapted from EMDR therapy, can help reduce the emotional intensity of memories or current stressors. You can also try alternating heel taps while seated or gentle side-to-side movements while walking.",
-        "image_url": "https://example.com/images/bilateral-tapping.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-pacific-heart/202010/bilateral-stimulation-and-emdr-therapy",
+        "title": "Cooking a Comfort Meal",
+        "description": "Cooking can be both therapeutic and grounding, especially when preparing a favorite comfort meal. Choose a simple recipe that brings positive memories or soothing flavors, and focus on each step of the process. The sensory engagement of chopping, stirring, and smelling aromas helps redirect your focus from stress to the present. Eating a meal you’ve prepared can also provide emotional satisfaction and nourishment, reinforcing a sense of care for yourself. This activity works best when you have moderate energy and want a structured, rewarding task.",
         "id": "solution_013",
         "metadata": [
-            {"name": "emotion", "value": "trauma response"},
-            {"name": "duration", "value": "1-5 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Nature Sound Immersion",
-        "description": "Listen to high-quality recordings of natural sounds - ocean waves, rainfall, forest ambience, or thunderstorms - for 15-30 minutes while lying down or sitting comfortably. Close your eyes and imagine yourself in that environment. Natural sounds can reduce cortisol levels, lower blood pressure, and activate the parasympathetic nervous system. This practice is particularly effective for those who can't access natural environments regularly. Use good headphones for the best immersive experience.",
-        "image_url": "https://example.com/images/nature-sounds.jpg",
-        "external_url": "https://www.scientificamerican.com/article/why-sounds-of-nature-help-us-relax/",
+        "title": "Gratitude Letter",
+        "description": "Writing a gratitude letter to someone who has positively impacted your life can elevate your mood and strengthen relationships. Take 15–20 minutes to write a thoughtful message expressing what their support or kindness has meant to you. You don’t necessarily need to send the letter—the act of writing itself brings benefits by focusing your mind on appreciation. This activity reduces feelings of isolation, nurtures empathy, and reinforces positive connections. If you choose to share it, it may also bring joy to the recipient.",
         "id": "solution_014",
         "metadata": [
-            {"name": "emotion", "value": "stress"},
-            {"name": "duration", "value": "15-30 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "quiet indoor space"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "3"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Constructive Worry Time",
-        "description": "Schedule a specific 15-20 minute period daily to focus solely on your worries. Write them down, categorize them as things you can or cannot control, then develop action plans for controllable issues. When worries arise outside this time, remind yourself to save them for worry time. This technique prevents rumination from taking over your day while ensuring important concerns are addressed. Many people find their worries seem less overwhelming when confined to a specific time period.",
-        "image_url": "https://example.com/images/worry-time.jpg",
-        "external_url": "https://www.anxietycanada.com/articles/how-to-do-worry-time/",
+        "title": "Yoga Flow",
+        "description": "Practicing a short yoga flow combines movement, breath, and mindfulness for holistic stress relief. Begin with gentle poses like Child’s Pose or Cat-Cow, then move into stretches that open the hips, spine, and shoulders. Focus on synchronizing your breathing with each posture. Yoga not only relaxes tense muscles but also calms the nervous system and improves focus. It’s an excellent option if you want both physical release and mental grounding. Even 10–20 minutes of practice can leave you feeling balanced and refreshed.",
         "id": "solution_015",
         "metadata": [
-            {"name": "emotion", "value": "anxiety"},
-            {"name": "duration", "value": "15-20 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Mindful Tea Ceremony",
-        "description": "Transform tea drinking into a meditative practice by focusing on each step - boiling water, steeping tea, the aroma, temperature, and taste. Sit quietly and give full attention to the sensory experience. Hold the cup with both hands, feeling its warmth. Take small sips and notice how the tea tastes and feels in your mouth. This practice combines mindfulness with self-care, creating a peaceful break in your day. It's particularly effective during transitions or when you need to slow down and center yourself.",
-        "image_url": "https://example.com/images/tea-ceremony.jpg",
-        "external_url": "https://www.mindful.org/a-tea-meditation-for-your-daily-routine/",
+        "title": "Breath Counting Meditation",
+        "description": "Breath counting meditation is a simple mindfulness practice that sharpens focus and reduces stress. Sit comfortably, close your eyes, and take slow, deep breaths. Count ‘one’ on the inhale, ‘two’ on the exhale, and continue up to ten before restarting at one. If your mind wanders, gently bring it back to the breath and counting. This method anchors your attention, quiets restless thoughts, and helps cultivate a calm presence. It’s especially effective when you feel distracted, anxious, or overwhelmed.",
         "id": "solution_016",
         "metadata": [
-            {"name": "emotion", "value": "restlessness"},
-            {"name": "duration", "value": "10-15 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "kitchen/quiet space"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Decluttering Session",
+        "description": "Decluttering a small area of your living space can bring a surprising sense of relief and control. Choose a desk drawer, nightstand, or shelf and spend 10–20 minutes tidying it up. As you sort, notice how letting go of unnecessary items lightens your mental load. A cleaner environment often translates into a calmer mind. This activity works best when you want to channel restless energy into something productive and need a tangible result to feel grounded.",
+        "id": "solution_017",
+        "metadata": [
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Listening to Uplifting Music",
+        "description": "Music has a direct impact on mood and energy levels. Create a playlist of songs that lift your spirits, whether upbeat pop, soulful jazz, or calming classical. Put on headphones, close your eyes, and let yourself fully experience the rhythm and melody. Singing along or tapping your feet can amplify the effect. This practice is quick, accessible, and highly adaptable to different emotional needs. It’s an easy way to reset your mood when feeling stuck, low, or stressed.",
+        "id": "solution_018",
+        "metadata": [
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "3"}
+        ]
+    },
+    {
+        "title": "Art Doodle Session",
+        "description": "Drawing or doodling freely without worrying about results can be a powerful emotional outlet. Take a blank page and let your hand move without a plan—shapes, lines, colors, anything that feels right. This nonverbal expression bypasses the need for words and allows emotions to flow more naturally. It’s especially useful if you’re feeling stuck, restless, or unable to articulate your mood. Even 10 minutes of doodling can reduce stress and help you feel lighter.",
+        "id": "solution_019",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "3"}
+        ]
+    },
+    {
+        "title": "Power Nap",
+        "description": "A short nap of 15–25 minutes can restore energy, improve focus, and reduce irritability. Find a quiet, comfortable spot, set an alarm, and allow yourself to fully relax. Keeping the nap under 30 minutes prevents grogginess and maximizes alertness upon waking. Power naps are especially useful when you’re mentally drained or emotionally overloaded but don’t have time for a full sleep cycle. They offer a quick way to reset both body and mind.",
+        "id": "solution_020",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "5"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Journaling for Clarity",
+        "description": "Writing down your thoughts and feelings helps organize emotions and makes overwhelming problems seem more manageable. Set aside 10–15 minutes to free-write about anything on your mind without judgment or editing. This process can release pent-up stress, uncover hidden insights, and create space for solutions to emerge naturally.",
+        "id": "solution_021",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Nature Exploration",
+        "description": "Spending time in green spaces reduces anxiety and boosts mood. A slow, mindful walk in a park or nature trail allows your senses to reset by focusing on fresh air, natural sounds, and open scenery. This activity is particularly effective for calming racing thoughts while gently moving your body.",
+        "id": "solution_022",
+        "metadata": [
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "3"}
+        ]
+    },
+    {
+        "title": "Progressive Muscle Relaxation",
+        "description": "This practice involves tensing and releasing different muscle groups to ease physical tension and restore calm. Start with your toes, hold for a few seconds, then release, moving slowly up to your head. It’s especially useful when stress causes muscle tightness or difficulty sleeping.",
+        "id": "solution_023",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Cooking a Comfort Meal",
+        "description": "Preparing a favorite meal can be grounding and emotionally restorative. The act of cooking engages your senses, creates structure, and results in a nourishing dish that satisfies both body and spirit. Choose recipes that remind you of positive memories or offer warmth and familiarity.",
+        "id": "solution_024",
+        "metadata": [
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Digital Detox Hour",
+        "description": "Turning off screens for an hour frees you from overstimulation, comparison traps, and constant notifications. Use the time for analog activities like reading, stretching, or simply sitting quietly. The reduction in sensory input calms the nervous system and creates mental clarity.",
+        "id": "solution_025",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Gratitude List",
+        "description": "Listing three to five things you’re grateful for shifts focus from stressors to positive aspects of your life. The practice rewires your brain toward appreciation and enhances resilience. Keep a journal or use sticky notes on a wall to build a visible reminder of positivity over time.",
+        "id": "solution_026",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Breath Counting Meditation",
+        "description": "Sit comfortably, close your eyes, and count each breath cycle up to ten before starting again. This keeps your mind anchored in the present and interrupts anxious thought spirals. Even five minutes of practice can bring noticeable calm and focus.",
+        "id": "solution_027",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Dancing Freely",
+        "description": "Put on music you enjoy and let your body move without rules or judgment. Free dance boosts endorphins, releases tension, and reconnects you with joy. It works well as both exercise and emotional release, especially when words aren’t enough to express feelings.",
+        "id": "solution_028",
+        "metadata": [
+            {"name": "energy", "value": "4"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "5"}
+        ]
+    },
+    {
+        "title": "Visualization of a Safe Place",
+        "description": "Close your eyes and imagine a location where you feel completely safe and at peace. Picture the details vividly—the colors, sounds, textures, and sensations. This mental imagery signals safety to your nervous system, easing stress and grounding your emotions.",
+        "id": "solution_029",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Morning Sun Exposure",
+        "description": "Spending 10–20 minutes in natural morning light regulates your circadian rhythm, boosts serotonin, and lifts mood. It’s a natural way to increase alertness and fight sluggishness. Pair it with light stretching or mindful breathing for maximum effect.",
+        "id": "solution_030",
+        "metadata": [
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Decluttering a Small Space",
+        "description": "Tidying up a desk, drawer, or countertop can provide a quick sense of accomplishment and control. The act of creating order in a small environment often translates to mental clarity and reduced stress. Start small to avoid overwhelm and celebrate the progress.",
+        "id": "solution_031",
+        "metadata": [
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Tea Ritual",
+        "description": "Preparing and slowly drinking a warm cup of tea can be a meditative act. The ritual engages your senses with aroma, warmth, and taste while providing a soothing pause in your day. Herbal teas like chamomile or peppermint are especially calming.",
+        "id": "solution_032",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Expressive Art",
+        "description": "Grab crayons, markers, or paints and let yourself create without worrying about skill. Expressive art allows emotions to flow through shapes and colors, often revealing insights or offering cathartic release. The process matters far more than the product.",
+        "id": "solution_033",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "4"}
+        ]
+    },
+    {
+        "title": "Reading for Escape",
+        "description": "Immersing yourself in a novel or short story provides mental distance from daily worries. Fictional worlds spark imagination, offer comfort, and can shift emotional states. Even 15 minutes of reading can act as a gentle reset for your mood.",
+        "id": "solution_034",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "3"}
+        ]
+    },
+    {
+        "title": "Gentle Stretching Routine",
+        "description": "Taking five minutes to stretch your body relieves physical stiffness and refreshes circulation. It’s a quick way to ground yourself, especially if you’ve been sitting for long periods. Focus on simple movements like neck rolls, shoulder shrugs, and hamstring stretches.",
+        "id": "solution_035",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Mantra Repetition",
+        "description": "Choose a short, positive phrase such as 'I am calm' or 'This too shall pass.' Repeat it silently or aloud to anchor your thoughts and shift perspective. Mantra repetition is effective for quickly calming stress and building mental resilience.",
+        "id": "solution_036",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Gardening or Plant Care",
+        "description": "Tending to plants, even small indoor ones, fosters a sense of responsibility and nurtures calm. The act of watering, pruning, or repotting creates connection with life and reduces stress. It’s especially grounding for those feeling restless or disconnected.",
+        "id": "solution_037",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Listening to Calming Music",
+        "description": "Soft instrumental or ambient tracks can ease anxiety, regulate breathing, and shift mood. Allow the music to wash over you without multitasking—simply close your eyes and listen. It’s an easy, accessible way to reset emotionally.",
+        "id": "solution_038",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Phone a Trusted Friend",
+        "description": "Reaching out to someone you trust can lighten your emotional load. Even a brief call provides connection, perspective, and reassurance. Sharing feelings with another person reduces loneliness and strengthens social support networks.",
+        "id": "solution_039",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "4"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Taking a Warm Bath",
+        "description": "Soaking in warm water relaxes tense muscles, slows breathing, and signals the body to enter a calmer state. Adding soothing scents like lavender or chamomile enhances the effect. Baths can serve as both physical and emotional restoration.",
+        "id": "solution_040",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "5"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Mindful Eating",
+        "description": "Choose a snack or small meal and eat it slowly, savoring each bite. Focus on textures, flavors, and the act of chewing without distraction from screens. Mindful eating not only enhances appreciation of food but also helps ground you in the present moment and reduce stress-driven overeating.",
+        "id": "solution_041",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Creative Writing Burst",
+        "description": "Spend 10 minutes writing a short story, poem, or stream-of-consciousness entry. Creative writing allows emotional processing while offering an outlet for imagination. It is especially effective for channeling restlessness or reshaping negative emotions into something expressive and constructive.",
+        "id": "solution_042",
+        "metadata": [
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "4"}
         ]
     },
     {
         "title": "Body Scan Meditation",
-        "description": "Lie down comfortably and systematically focus attention on different parts of your body, starting from your toes and moving up to your head. Notice sensations without trying to change them - warmth, coolness, tension, relaxation. Spend 1-2 minutes on each body part. This practice increases body awareness, reduces physical tension, and promotes deep relaxation. It's particularly helpful for chronic pain, insomnia, and stress-related physical symptoms. Regular practice can improve your ability to detect and address physical tension early.",
-        "image_url": "https://example.com/images/body-scan.jpg",
-        "external_url": "https://www.mindful.org/the-body-scan-practice/",
-        "id": "solution_017",
-        "metadata": [
-            {"name": "emotion", "value": "physical tension"},
-            {"name": "duration", "value": "20-45 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "comfortable lying space"}
-        ]
-    },
-    {
-        "title": "Humming Meditation",
-        "description": "Create a deep, steady humming sound while breathing out, feeling the vibration in your chest, throat, and head. This practice stimulates the vagus nerve, which activates the relaxation response. Experiment with different pitches and notice how they feel in your body. Humming for 5-10 minutes can reduce anxiety, lower blood pressure, and create a sense of inner calm. The vibration has a soothing effect on the nervous system. You can do this quietly so others won't hear, making it perfect for office or public spaces.",
-        "image_url": "https://example.com/images/humming-meditation.jpg",
-        "external_url": "https://www.yogajournal.com/meditation/humming-meditation-bhramari-pranayama/",
-        "id": "solution_018",
-        "metadata": [
-            {"name": "emotion", "value": "anxiety"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere private"}
-        ]
-    },
-    {
-        "title": "Emotional Freedom Technique (EFT)",
-        "description": "Combine gentle tapping on specific acupressure points with verbal affirmations to address negative emotions. Start by tapping the side of your hand while stating your problem, then tap points on your head and torso while repeating positive affirmations. This technique can help reduce the intensity of negative emotions and limiting beliefs. Many people report immediate relief from anxiety, anger, or emotional overwhelm. The tapping helps calm the amygdala while the verbal component helps reframe negative thought patterns.",
-        "image_url": "https://example.com/images/eft-tapping.jpg",
-        "external_url": "https://www.thetappingsolution.com/what-is-eft-tapping/",
-        "id": "solution_019",
-        "metadata": [
-            {"name": "emotion", "value": "negative emotions"},
-            {"name": "duration", "value": "5-15 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "private space"}
-        ]
-    },
-    {
-        "title": "Mindful Coloring",
-        "description": "Engage in adult coloring books or mandala designs with full attention to the process. Focus on color choices, the movement of your hand, and the emerging patterns. This activity activates the relaxation response while engaging creativity. The repetitive motion and focus required naturally quiet mental chatter. Choose designs that appeal to you and colors that feel soothing or energizing, depending on your needs. This practice is particularly effective for those who find traditional meditation challenging because it gives the mind something concrete to focus on.",
-        "image_url": "https://example.com/images/mindful-coloring.jpg",
-        "external_url": "https://www.healthline.com/health/mental-health/coloring-books-stress-anxiety",
-        "id": "solution_020",
-        "metadata": [
-            {"name": "emotion", "value": "restlessness"},
-            {"name": "duration", "value": "20-45 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "quiet space"}
-        ]
-    },
-    {
-        "title": "Alternate Nostril Breathing",
-        "description": "Use your thumb to close your right nostril and inhale through your left nostril for 4 counts. Close your left nostril with your ring finger, release your thumb, and exhale through your right nostril for 4 counts. Continue this pattern for 5-10 minutes. This pranayama technique balances the nervous system and promotes mental clarity. It's particularly effective for reducing anxiety and improving focus. The practice helps synchronize the two hemispheres of the brain and can be especially calming before sleep or meditation.",
-        "image_url": "https://example.com/images/alternate-nostril-breathing.jpg",
-        "external_url": "https://www.healthline.com/health/alternate-nostril-breathing",
-        "id": "solution_021",
-        "metadata": [
-            {"name": "emotion", "value": "mental fog"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "sitting position"}
-        ]
-    },
-    {
-        "title": "Compassionate Self-Talk",
-        "description": "When you notice harsh self-criticism, pause and ask what you would say to a good friend in the same situation. Speak to yourself with the same kindness and understanding you'd offer others. Replace critical internal dialogue with supportive, encouraging words. Practice phrases like 'This is a moment of suffering, everyone struggles sometimes, may I be kind to myself.' This technique, rooted in self-compassion research, can significantly reduce anxiety, depression, and shame while building emotional resilience.",
-        "image_url": "https://example.com/images/self-compassion.jpg",
-        "external_url": "https://self-compassion.org/",
-        "id": "solution_022",
-        "metadata": [
-            {"name": "emotion", "value": "self-criticism"},
-            {"name": "duration", "value": "15-30 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "private space"}
-        ]
-    },
-    {
-        "title": "Mindful Appreciation Walk",
-        "description": "Take a walk with the specific intention of noticing and appreciating beauty around you - flowers, architecture, people, pets, or natural phenomena. This shifts your focus from internal worries to external beauty and wonder. Walk slowly enough to really see your surroundings. This practice combines the benefits of gentle exercise with gratitude and mindfulness. Even a five-minute appreciation walk can significantly shift your mood and perspective.",
-        "image_url": "https://example.com/images/appreciation-walk.jpg",
-        "external_url": "https://www.mindful.org/take-a-mindful-walk/",
-        "id": "solution_095",
-        "metadata": [
-            {"name": "emotion", "value": "negativity bias"},
-            {"name": "duration", "value": "10-30 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "outdoors/walking area"}
-        ]
-    },
-    {
-        "title": "Emergency Calm Kit",
-        "description": "Create a physical or digital kit of your most effective calming tools for use during emotional emergencies. Include breathing techniques, grounding exercises, supportive phone numbers, calming music, essential oils, or photos that bring peace. Keep this kit easily accessible and practice using it during calm moments so it's available when you're overwhelmed. Customize it based on what works best for your specific emotional patterns and triggers.",
-        "image_url": "https://example.com/images/calm-kit.jpg",
-        "external_url": "https://www.verywellmind.com/how-to-create-a-calming-kit-5077586",
-        "id": "solution_096",
-        "metadata": [
-            {"name": "emotion", "value": "emotional crisis"},
-            {"name": "duration", "value": "varies by tool used"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "wherever kit is accessible"}
-        ]
-    },
-    {
-        "title": "Mindful Bedtime Gratitude",
-        "description": "Before sleep, mentally review your day and identify three specific things you're grateful for, focusing on small, concrete experiences rather than general concepts. Include why each thing was meaningful and how it made you feel. This practice helps end the day on a positive note and can improve sleep quality. The specificity and emotional connection make the gratitude more powerful than generic thankfulness.",
-        "image_url": "https://example.com/images/bedtime-gratitude.jpg",
-        "external_url": "https://greatergood.berkeley.edu/article/item/why_gratitude_is_good",
-        "id": "solution_097",
-        "metadata": [
-            {"name": "emotion", "value": "end-of-day stress"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "bed"}
-        ]
-    },
-    {
-        "title": "Emotional First Aid",
-        "description": "Develop a quick emotional first aid protocol for when you're emotionally wounded - perhaps five deep breaths, a moment of self-compassion, reaching out to a supportive friend, or doing something nurturing for yourself. Just as you would treat a physical wound promptly, treat emotional wounds with immediate care. This prevents small emotional injuries from becoming larger problems and builds resilience over time.",
-        "image_url": "https://example.com/images/emotional-first-aid.jpg",
-        "external_url": "https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid",
-        "id": "solution_098",
-        "metadata": [
-            {"name": "emotion", "value": "emotional injury"},
-            {"name": "duration", "value": "5-15 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere"}
-        ]
-    },
-    {
-        "title": "Sacred Pause Practice",
-        "description": "Throughout your day, take brief sacred pauses - moments of intentional stillness where you stop what you're doing, take a conscious breath, and reconnect with your deeper intentions. These micro-breaks help prevent the accumulation of stress and keep you aligned with what truly matters. Set random alarms or use natural transition points as reminders. The pause creates space between stimulus and response, allowing for more conscious choices.",
-        "image_url": "https://example.com/images/sacred-pause.jpg",
-        "external_url": "https://www.mindful.org/the-sacred-pause/",
-        "id": "solution_099",
-        "metadata": [
-            {"name": "emotion", "value": "rushing/overwhelm"},
-            {"name": "duration", "value": "30 seconds to 2 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
-        ]
-    },
-    {
-        "title": "Wholehearted Living Practice",
-        "description": "End each day by asking yourself: 'Did I live wholeheartedly today? Where did I show up authentically, and where did I hold back?' This reflection practice helps align your daily actions with your deeper values and authentic self. Notice patterns over time and gently adjust toward more authentic living. This practice, inspired by Brené Brown's research, builds courage, compassion, and connection while reducing shame and perfectionism.",
-        "image_url": "https://example.com/images/wholehearted-living.jpg",
-        "external_url": "https://brenebrown.com/the-research/",
-        "id": "solution_100",
-        "metadata": [
-            {"name": "emotion", "value": "disconnection from authentic self"},
-            {"name": "duration", "value": "10-15 minutes"},
-            {"name": "difficulty", "value": "advanced"},
-            {"name": "location", "value": "reflective private space"}
-        ]
-    },
-    {
-        "title": "Temperature Therapy",
-        "description": "Use temperature changes to shift your emotional state - take a warm bath to relax, hold ice cubes to interrupt intense emotions, or drink hot tea for comfort. Cold temperatures can quickly interrupt panic or overwhelming emotions by activating the parasympathetic nervous system. Warm temperatures promote relaxation and can ease physical tension. Keep cold packs in your freezer or carry peppermint oil for cooling sensations. This technique provides rapid relief and can be combined with breathing exercises for enhanced effectiveness.",
-        "image_url": "https://example.com/images/temperature-therapy.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-athletes-way/201407/cold-water-swimming-bolsters-stress-response-and-immunity",
-        "id": "solution_023",
-        "metadata": [
-            {"name": "emotion", "value": "intense emotions"},
-            {"name": "duration", "value": "1-20 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "home/kitchen"}
-        ]
-    },
-    {
-        "title": "Mindful Stretching",
-        "description": "Perform gentle stretches while paying full attention to the sensations in your muscles and joints. Move slowly and breathe deeply into areas of tension. Hold each stretch for 30-60 seconds, noticing how your body responds. This combination of mindfulness and movement helps release both physical and emotional tension. Focus particularly on areas where you hold stress - neck, shoulders, hips. The practice improves body awareness while promoting relaxation and can be done anywhere with minimal space.",
-        "image_url": "https://example.com/images/mindful-stretching.jpg",
-        "external_url": "https://www.verywellmind.com/mindful-stretching-exercise-3144766",
-        "id": "solution_024",
-        "metadata": [
-            {"name": "emotion", "value": "physical tension"},
-            {"name": "duration", "value": "10-20 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "floor space"}
-        ]
-    },
-    {
-        "title": "Positive Memory Visualization",
-        "description": "Recall a time when you felt completely happy, safe, or accomplished. Close your eyes and recreate this memory in vivid detail - what you saw, heard, smelled, and felt. Spend 5-10 minutes immersing yourself in this positive experience. This practice helps shift your emotional state by activating neural pathways associated with positive emotions. Create a mental library of these memories for difficult times. The more detailed and emotionally engaging your recollection, the more effective it becomes at improving your current mood.",
-        "image_url": "https://example.com/images/positive-memory.jpg",
-        "external_url": "https://greatergood.berkeley.edu/article/item/how_to_help_students_develop_positive_memories",
-        "id": "solution_025",
-        "metadata": [
-            {"name": "emotion", "value": "sadness"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "quiet space"}
-        ]
-    },
-    {
-        "title": "Scent-Based Mood Shifting",
-        "description": "Use specific scents to influence your emotional state - lavender for calming, peppermint for alertness, citrus for energy, vanilla for comfort. Keep small bottles of essential oils or scented items accessible. Take three deep breaths with your chosen scent, allowing it to fill your senses completely. The olfactory system directly connects to the limbic brain, making scent one of the fastest ways to shift emotions. Create scent associations by using specific fragrances during positive activities.",
-        "image_url": "https://example.com/images/aromatherapy.jpg",
-        "external_url": "https://www.healthline.com/health/what-is-aromatherapy",
-        "id": "solution_026",
-        "metadata": [
-            {"name": "emotion", "value": "various moods"},
-            {"name": "duration", "value": "1-5 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
-        ]
-    },
-    {
-        "title": "Rhythmic Movement",
-        "description": "Engage in repetitive, rhythmic activities like drumming with your hands, swaying, or gentle dancing to music. The rhythmic movement helps regulate your nervous system and can shift stuck emotional energy. Choose movements that feel natural and comfortable - there's no right or wrong way. This practice is particularly effective for processing grief, anger, or feeling emotionally stuck. The combination of rhythm and movement helps integrate emotional experiences and can provide a sense of release and flow.",
-        "image_url": "https://example.com/images/rhythmic-movement.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-athletes-way/201310/rhythm-and-beat-help-us-walk-together-and-feel-empathy",
-        "id": "solution_027",
-        "metadata": [
-            {"name": "emotion", "value": "stuck emotions"},
-            {"name": "duration", "value": "10-20 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "private space"}
-        ]
-    },
-    {
-        "title": "Mindful Eating Practice",
-        "description": "Choose a small piece of food - a raisin, piece of chocolate, or single cracker. Examine it closely, noticing texture, color, and smell. Eat it slowly, paying attention to taste, temperature, and how it changes as you chew. This practice brings you into the present moment while creating a positive, nurturing experience. It can help interrupt emotional eating patterns and create a more mindful relationship with food. The focused attention required naturally calms mental chatter.",
-        "image_url": "https://example.com/images/mindful-eating.jpg",
-        "external_url": "https://www.health.harvard.edu/staying-healthy/mindful-eating",
-        "id": "solution_028",
-        "metadata": [
-            {"name": "emotion", "value": "emotional eating"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere with food"}
-        ]
-    },
-    {
-        "title": "Safe Place Visualization",
-        "description": "Create a detailed mental image of a place where you feel completely safe and peaceful. This could be real or imaginary - a childhood bedroom, a forest clearing, or a cozy cabin. Include sensory details like sounds, smells, colors, and textures. Practice visiting this place in your mind for 10-15 minutes, especially during times of stress or anxiety. This technique provides a mental refuge and helps activate the relaxation response. The more vividly you can imagine this space, the more calming it becomes.",
-        "image_url": "https://example.com/images/safe-place-visualization.jpg",
-        "external_url": "https://www.ptsd.va.gov/apps/aboutface/features/learn_safe_place_visualization.html",
-        "id": "solution_029",
-        "metadata": [
-            {"name": "emotion", "value": "fear"},
-            {"name": "duration", "value": "10-15 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "quiet space"}
-        ]
-    },
-    {
-        "title": "Letter Writing Therapy",
-        "description": "Write a letter to someone who has hurt you, to yourself, or about a difficult situation. Express all your feelings without censoring. You don't need to send it - the therapeutic value is in the writing process itself. This practice helps externalize internal conflicts and can provide clarity and emotional release. After writing, you might choose to keep it, burn it safely, or rewrite it from a different perspective. Many people find this more effective than just thinking about their problems.",
-        "image_url": "https://example.com/images/letter-writing.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-time-cure/201308/letter-writing-as-psychotherapy",
-        "id": "solution_030",
-        "metadata": [
-            {"name": "emotion", "value": "unresolved feelings"},
-            {"name": "duration", "value": "15-30 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "private space"}
-        ]
-    },
-    {
-        "title": "Micro-Meditation Breaks",
-        "description": "Take 1-3 minute meditation breaks throughout your day. Simply close your eyes and focus on your breath, or practice mindful awareness of your current environment. Set reminders on your phone for these brief mental resets. These short practices can be more sustainable than longer meditation sessions and help prevent stress from accumulating. Even 60 seconds of focused breathing can lower cortisol levels and improve mental clarity. The key is consistency rather than duration - multiple micro-meditations throughout the day can be more beneficial than one long session.",
-        "image_url": "https://example.com/images/micro-meditation.jpg",
-        "external_url": "https://www.mindful.org/take-a-mindful-moment/",
-        "id": "solution_031",
-        "metadata": [
-            {"name": "emotion", "value": "daily stress"},
-            {"name": "duration", "value": "1-3 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
-        ]
-    },
-    {
-        "title": "Contrast Shower Therapy",
-        "description": "Alternate between warm and cold water during your shower. Start with warm water for 2-3 minutes, then cold for 30 seconds, repeating 3-5 cycles. This practice stimulates the nervous system, improves circulation, and can boost mood through the release of endorphins and norepinephrine. The controlled stress of temperature changes builds resilience and can help with depression and anxiety. End with cold water for an energizing effect or warm water for relaxation. This technique combines the benefits of hydrotherapy with mindfulness practice.",
-        "image_url": "https://example.com/images/contrast-shower.jpg",
-        "external_url": "https://www.healthline.com/health/cold-shower-benefits",
-        "id": "solution_032",
-        "metadata": [
-            {"name": "emotion", "value": "depression"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "shower"}
-        ]
-    },
-    {
-        "title": "Mindful Hand Washing",
-        "description": "Transform routine hand washing into a mindfulness practice. Feel the water temperature, notice the texture of soap, observe the bubbles forming, and pay attention to the sensations on your skin. This practice anchors you in the present moment and can be done multiple times daily. Focus on the circular motions, the sound of water, and the feeling of cleanliness. This simple activity becomes a mini-meditation that's built into your daily routine, making mindfulness more accessible and sustainable.",
-        "image_url": "https://example.com/images/mindful-handwashing.jpg",
-        "external_url": "https://www.mindful.org/how-to-turn-hand-washing-into-a-mindful-moment/",
-        "id": "solution_033",
-        "metadata": [
-            {"name": "emotion", "value": "routine stress"},
-            {"name": "duration", "value": "1-2 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "bathroom/sink"}
-        ]
-    },
-    {
-        "title": "Emotional Weather Report",
-        "description": "Check in with your emotions as if giving a weather report. Are you experiencing stormy anger, cloudy confusion, sunny happiness, or foggy uncertainty? This metaphor helps create distance from intense emotions and makes them feel more temporary and manageable. Write or mentally note your emotional weather 2-3 times daily. This practice increases emotional awareness and helps you recognize patterns. Remember that like weather, emotions are temporary and constantly changing.",
-        "image_url": "https://example.com/images/emotional-weather.jpg",
-        "external_url": "https://www.mindful.org/emotional-weather-report/",
-        "id": "solution_034",
-        "metadata": [
-            {"name": "emotion", "value": "emotional awareness"},
-            {"name": "duration", "value": "2-3 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
-        ]
-    },
-    {
-        "title": "Energy Clearing Visualization",
-        "description": "Imagine a bright light entering through the top of your head, flowing through your entire body, and carrying away any negative energy, stress, or tension. Visualize this light filling every cell with peace and vitality while dark energy flows out through your feet into the earth. Spend 5-10 minutes with this visualization, breathing deeply as the light moves through you. This practice can help after difficult interactions or when feeling energetically drained.",
-        "image_url": "https://example.com/images/energy-clearing.jpg",
-        "external_url": "https://chopra.com/articles/guided-meditation-for-clearing-energy",
-        "id": "solution_035",
-        "metadata": [
-            {"name": "emotion", "value": "energetic heaviness"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "quiet space"}
-        ]
-    },
-    {
-        "title": "Mindful Phone Usage",
-        "description": "Before picking up your phone, pause and take three conscious breaths. Set an intention for your phone use - what do you want to accomplish? Check in with your emotional state before and after using your device. This practice helps break unconscious scrolling habits that can increase anxiety and comparison. Consider using apps that track usage or create phone-free zones in your home. Mindful technology use can significantly improve mental well-being and reduce digital overwhelm.",
-        "image_url": "https://example.com/images/mindful-phone.jpg",
-        "external_url": "https://www.mindful.org/how-to-use-your-smartphone-mindfully/",
-        "id": "solution_036",
-        "metadata": [
-            {"name": "emotion", "value": "digital overwhelm"},
-            {"name": "duration", "value": "ongoing practice"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere"}
-        ]
-    },
-    {
-        "title": "Artistic Expression Release",
-        "description": "Use art materials - paints, crayons, clay, or even just doodling - to express your current emotional state without worrying about the outcome. Let your emotions guide the colors, shapes, and movements. This practice bypasses verbal processing and allows for emotional release through creativity. You don't need artistic skill - the goal is expression, not beauty. Many people find this particularly helpful for processing complex or overwhelming emotions that are hard to put into words.",
-        "image_url": "https://example.com/images/art-therapy.jpg",
-        "external_url": "https://www.psychologytoday.com/us/therapy-types/art-therapy",
-        "id": "solution_037",
-        "metadata": [
-            {"name": "emotion", "value": "overwhelm"},
-            {"name": "duration", "value": "15-45 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "creative space"}
-        ]
-    },
-    {
-        "title": "Sunrise/Sunset Meditation",
-        "description": "Spend 10-15 minutes watching the sunrise or sunset with full attention. Notice the changing colors, the movement of light, and how it makes you feel. This practice connects you with natural rhythms and provides perspective on daily concerns. The beauty and vastness of the sky can help put problems in context and inspire gratitude. If you can't see the actual sun, visualizing sunrise or sunset can provide similar benefits. This practice is particularly grounding during times of change or uncertainty.",
-        "image_url": "https://example.com/images/sunset-meditation.jpg",
-        "external_url": "https://www.mindful.org/a-sunset-meditation-for-gratitude/",
-        "id": "solution_038",
-        "metadata": [
-            {"name": "emotion", "value": "disconnection"},
-            {"name": "duration", "value": "10-15 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "outdoors/window"}
-        ]
-    },
-    {
-        "title": "Tension Release Shaking",
-        "description": "Stand with feet shoulder-width apart and begin gently shaking your hands, then let the movement spread through your arms, shoulders, and eventually your whole body. This mimics how animals naturally discharge stress and trauma. Shake for 5-10 minutes, allowing any sounds or movements that want to emerge. This practice helps release stored tension and stress from the nervous system. It's particularly effective after stressful events or when feeling physically tense and emotionally stuck.",
-        "image_url": "https://example.com/images/tension-release.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-body-bears-the-burden/201410/shaking-medicine",
-        "id": "solution_039",
-        "metadata": [
-            {"name": "emotion", "value": "stored tension"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "private space"}
-        ]
-    },
-    {
-        "title": "Memory Palace Creation",
-        "description": "Create a detailed mental map of a peaceful, safe place where you can store positive memories, affirmations, or coping strategies. Imagine walking through this space and placing different emotional resources in specific locations. When you need support, mentally visit your palace and retrieve what you need. This technique combines visualization with memory enhancement and provides a portable coping resource. Spend time building and refining your palace during calm moments so it's available during stress.",
-        "image_url": "https://example.com/images/memory-palace.jpg",
-        "external_url": "https://artofmemory.com/blog/how-to-build-a-memory-palace/",
-        "id": "solution_040",
-        "metadata": [
-            {"name": "emotion", "value": "need for resources"},
-            {"name": "duration", "value": "15-30 minutes"},
-            {"name": "difficulty", "value": "advanced"},
-            {"name": "location", "value": "quiet space"}
-        ]
-    },
-    {
-        "title": "Breathwork with Movement",
-        "description": "Combine conscious breathing with gentle arm movements or swaying. Inhale while raising your arms, exhale while lowering them. This integration of breath and movement helps regulate the nervous system more effectively than breathing alone. Try different combinations - circular arm movements, side-to-side swaying, or reaching up and down. The movement helps release physical tension while the breathing calms the mind. This practice is especially helpful when sitting meditation feels too static.",
-        "image_url": "https://example.com/images/breathwork-movement.jpg",
-        "external_url": "https://www.yogajournal.com/practice/breathwork/breath-awareness/",
-        "id": "solution_041",
-        "metadata": [
-            {"name": "emotion", "value": "restlessness"},
-            {"name": "duration", "value": "10-15 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "space to move"}
-        ]
-    },
-    {
-        "title": "Mindful Listening Practice",
-        "description": "Sit quietly and listen to all the sounds around you for 10-15 minutes without trying to identify or judge them. Notice layers of sound - distant traffic, birds, air conditioning, your own breathing. This practice develops present-moment awareness and can be deeply calming. When your mind wanders to thoughts, gently return attention to sounds. This technique works anywhere and helps develop concentration while reducing mental chatter. It's particularly effective in natural settings but works in any environment.",
-        "image_url": "https://example.com/images/mindful-listening.jpg",
-        "external_url": "https://www.mindful.org/a-basic-mindfulness-exercise-mindful-listening/",
-        "id": "solution_042",
-        "metadata": [
-            {"name": "emotion", "value": "mental chatter"},
-            {"name": "duration", "value": "10-15 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
-        ]
-    },
-    {
-        "title": "Positive Affirmation Recording",
-        "description": "Record yourself speaking positive affirmations in your own voice, then listen to the recording daily. Hearing affirmations in your own voice can be more powerful than reading them or hearing others speak them. Choose affirmations that address your specific challenges or goals. Record them with conviction and warmth. Listen during commutes, before sleep, or during low moments. This practice helps reprogram negative self-talk and builds self-compassion through your own supportive voice.",
-        "image_url": "https://example.com/images/affirmation-recording.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/flourish/200912/the-neuroscience-affirmations",
+        "description": "Lie down or sit comfortably, then bring awareness to each part of your body starting from the toes and moving upward. Notice sensations without judgment and allow areas of tension to relax. This practice grounds you in physical awareness and helps reduce stress and anxiety.",
         "id": "solution_043",
         "metadata": [
-            {"name": "emotion", "value": "self-doubt"},
-            {"name": "duration", "value": "5-15 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "private recording space"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Texture Mindfulness",
-        "description": "Collect various textured objects - smooth stones, rough fabric, soft fur, bumpy surfaces. Spend 5-10 minutes exploring these textures with your hands while keeping your full attention on the sensations. This grounding technique is particularly effective during anxiety or dissociation. The tactile focus brings you into your body and the present moment. You can keep a small textured object in your pocket for discrete grounding throughout the day.",
-        "image_url": "https://example.com/images/texture-mindfulness.jpg",
-        "external_url": "https://www.mindful.org/how-to-meditate-with-your-senses/",
+        "title": "Mindful Dishwashing",
+        "description": "Turn a simple household task into a meditative experience. Focus on the feeling of warm water, the texture of soap bubbles, and the rhythm of your movements. This grounding practice reduces stress and transforms routine chores into moments of mindfulness.",
         "id": "solution_044",
         "metadata": [
-            {"name": "emotion", "value": "dissociation"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere with objects"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "1"}
         ]
     },
     {
-        "title": "Emotional Naming Practice",
-        "description": "When you notice an emotion arising, pause and specifically name it beyond just 'good' or 'bad.' Use precise emotional vocabulary - frustrated, disappointed, excited, content, irritated, delighted. Research shows that labeling emotions specifically can reduce their intensity and help regulate your response. Keep an emotion wheel handy to expand your emotional vocabulary. This practice increases emotional intelligence and gives you more control over your emotional responses.",
-        "image_url": "https://example.com/images/emotion-naming.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/prefrontal-nudity/201508/the-simple-power-labeling-your-emotions",
+        "title": "Laughter Break",
+        "description": "Watch a short funny video, listen to a comedy podcast, or recall a humorous memory. Laughter releases endorphins, lowers stress hormones, and provides a quick mood boost. This is especially helpful for interrupting cycles of worry or low mood.",
         "id": "solution_045",
         "metadata": [
-            {"name": "emotion", "value": "emotional confusion"},
-            {"name": "duration", "value": "1-2 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Candle Gazing Meditation",
-        "description": "Light a candle and softly gaze at the flame for 10-20 minutes. When your mind wanders, gently return attention to the flame. This practice, called trataka, improves concentration and promotes a meditative state. The dancing flame provides a focal point that's more dynamic than static objects. This can be easier than closing your eyes for meditation. The soft light is naturally calming and can be particularly soothing in the evening. Always practice fire safety and never leave candles unattended.",
-        "image_url": "https://example.com/images/candle-meditation.jpg",
-        "external_url": "https://www.artofliving.org/us-en/yoga/yoga-practices/trataka-candle-gazing-meditation",
+        "title": "Guided Visualization Journey",
+        "description": "Listen to a guided meditation that takes you through a calming or inspiring scenario, such as walking through a forest or floating on clouds. Visualization taps into imagination to calm the nervous system, foster creativity, and shift perspective from stress to serenity.",
         "id": "solution_046",
         "metadata": [
-            {"name": "emotion", "value": "scattered mind"},
-            {"name": "duration", "value": "10-20 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "safe indoor space"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Emotional Time Travel",
-        "description": "When experiencing difficult emotions, imagine your future self one year from now looking back at this moment with compassion and wisdom. What would that future self tell you? How might they view this current struggle? This perspective-taking exercise helps create emotional distance and hope. It reminds you that current pain is temporary and that you have the capacity to grow through challenges. This practice can provide comfort and guidance during difficult times.",
-        "image_url": "https://example.com/images/time-travel-meditation.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-science-behind-behavior/201507/the-power-time-perspective",
+        "title": "Stretching with Music",
+        "description": "Combine gentle stretches with soothing music to enhance both physical and emotional relaxation. The rhythm of the music helps you slow down while stretching loosens muscles and improves circulation. This pairing amplifies the stress-relieving effects of both practices.",
         "id": "solution_047",
         "metadata": [
-            {"name": "emotion", "value": "hopelessness"},
-            {"name": "duration", "value": "10-15 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "quiet space"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Mirror Work Practice",
-        "description": "Stand in front of a mirror and practice speaking to yourself with kindness and compassion. Start with simple phrases like 'I accept you' or 'You're doing your best.' This can feel awkward initially but becomes powerful with practice. Eye contact with yourself while speaking kindly can help heal self-criticism and build self-acceptance. Progress to more specific affirmations or forgiveness statements. This practice helps develop a more loving relationship with yourself.",
-        "image_url": "https://example.com/images/mirror-work.jpg",
-        "external_url": "https://louisehay.com/mirror-work-21-days/",
+        "title": "Crafting or DIY Projects",
+        "description": "Engage in a simple craft like knitting, origami, or assembling a small DIY project. Crafting channels focus into your hands and fosters a sense of accomplishment. It’s an ideal way to relax while still creating something tangible and meaningful.",
         "id": "solution_048",
         "metadata": [
-            {"name": "emotion", "value": "self-rejection"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "advanced"},
-            {"name": "location", "value": "private bathroom"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Sound Healing with Voice",
-        "description": "Use your own voice as a healing instrument by humming, chanting, or making vowel sounds. Try 'ahhh' for the heart, 'ohhh' for emotions, or 'mmm' for grounding. The vibrations of your own voice can be deeply healing and help release stored emotions. Experiment with different tones and notice how they feel in your body. This practice combines breathwork with sound therapy and can be done quietly so others won't hear. The internal vibrations help calm the nervous system.",
-        "image_url": "https://example.com/images/voice-healing.jpg",
-        "external_url": "https://www.healthline.com/health/sound-healing",
+        "title": "Walking Meditation",
+        "description": "Take slow, deliberate steps while paying close attention to each movement. Notice how your feet connect with the ground and coordinate with your breath. Walking meditation integrates mindfulness with gentle activity, reducing stress and cultivating presence.",
         "id": "solution_049",
         "metadata": [
-            {"name": "emotion", "value": "emotional blockage"},
-            {"name": "duration", "value": "5-15 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Mindful Technology Boundaries",
-        "description": "Create specific times and spaces that are technology-free. This might be the first hour after waking, during meals, or in the bedroom. Notice how different environments feel with and without devices. Use this time for present-moment activities like stretching, journaling, or simply sitting quietly. This practice helps reduce information overload and creates space for processing emotions naturally. The boundaries help prevent technology from becoming an avoidance mechanism for difficult feelings.",
-        "image_url": "https://example.com/images/tech-boundaries.jpg",
-        "external_url": "https://www.mindful.org/how-to-create-healthy-boundaries-with-technology/",
+        "title": "Bubble Breathing",
+        "description": "Visualize blowing bubbles with your breath. Inhale slowly through the nose, then exhale steadily through the mouth as if you were blowing a bubble wand. This playful visualization makes breathwork more engaging while lowering stress and calming the body.",
         "id": "solution_050",
         "metadata": [
-            {"name": "emotion", "value": "overwhelm"},
-            {"name": "duration", "value": "ongoing practice"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "designated tech-free zones"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Mudra Hand Positions",
-        "description": "Practice specific hand positions that correspond to different emotional states. Try Gyan mudra (thumb and index finger touching) for wisdom and calm, or Anjali mudra (palms together at heart) for gratitude and connection. Hold each position for 5-10 minutes while breathing consciously. These ancient practices combine physical positioning with intention to influence your mental and emotional state. The hand positions can be done discretely in public and provide a physical anchor for emotional regulation.",
-        "image_url": "https://example.com/images/mudra-positions.jpg",
-        "external_url": "https://www.yogajournal.com/poses/mudra/",
+        "title": "Gratitude Letter",
+        "description": "Write a letter to someone you appreciate, even if you never send it. Expressing gratitude strengthens positive emotions, nurtures relationships, and helps shift your perspective toward what’s meaningful in your life. It’s a powerful way to redirect focus from stress to connection.",
         "id": "solution_051",
         "metadata": [
-            {"name": "emotion", "value": "various states"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere seated"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "3"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Worry Stone Practice",
-        "description": "Keep a smooth stone or small object in your pocket to touch when feeling anxious or overwhelmed. The repetitive tactile motion can be calming and grounding. Choose an object with personal meaning or pleasant texture. As you touch the stone, practice deep breathing or positive affirmations. This creates a portable coping tool that provides comfort and helps interrupt anxious thought patterns. The physical action gives your mind something concrete to focus on.",
-        "image_url": "https://example.com/images/worry-stone.jpg",
-        "external_url": "https://www.verywellmind.com/worry-stones-for-anxiety-relief-5323322",
+        "title": "Yoga Nidra",
+        "description": "Also called 'yogic sleep,' this guided meditation brings deep relaxation while keeping the mind awake. It reduces stress, improves sleep quality, and provides profound restoration. Yoga Nidra can be done lying down, making it accessible for low-energy states.",
         "id": "solution_052",
         "metadata": [
-            {"name": "emotion", "value": "anxiety"},
-            {"name": "duration", "value": "as needed"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "5"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Compassionate Touch",
-        "description": "Place your hand on your heart, stomach, or cheek when experiencing difficult emotions. This simple act of self-touch activates the care system in your brain and can provide immediate comfort. Combine with slow breathing and kind internal dialogue. This practice mimics the soothing touch we might receive from others and helps self-soothe during emotional distress. The warmth and pressure of your own hand can be surprisingly comforting and grounding.",
-        "image_url": "https://example.com/images/compassionate-touch.jpg",
-        "external_url": "https://self-compassion.org/exercise-2-self-compassion-break/",
+        "title": "Coloring for Calm",
+        "description": "Using coloring books or printable designs, spend time filling in patterns with color. The repetitive motion and focus required induce a meditative state, reduce anxiety, and allow quiet self-expression. It’s especially soothing for restless minds seeking a simple creative outlet.",
         "id": "solution_053",
         "metadata": [
-            {"name": "emotion", "value": "emotional pain"},
-            {"name": "duration", "value": "1-5 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Pattern Interruption Technique",
-        "description": "When caught in negative thought loops, deliberately interrupt the pattern with a physical action - stand up, clap your hands, or say 'stop' out loud. Then immediately engage in a completely different activity for 5-10 minutes. This technique helps break rumination cycles and gives your brain a chance to reset. Choose interruption methods that work for your environment. The key is to make the interruption decisive and then fully engage in the new activity.",
-        "image_url": "https://example.com/images/pattern-interruption.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/in-practice/201301/interrupting-rumination",
+        "title": "Positive Affirmation Practice",
+        "description": "Write down or repeat aloud empowering statements such as 'I am resilient' or 'I can handle this.' Affirmations help counter negative self-talk and build inner strength. Practicing them daily builds confidence and promotes a healthier mindset.",
         "id": "solution_054",
         "metadata": [
-            {"name": "emotion", "value": "rumination"},
-            {"name": "duration", "value": "immediate + 5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Energy Matching Music",
-        "description": "Choose music that matches your current emotional state, then gradually shift to music that represents how you want to feel. If you're sad, start with melancholy music, then slowly transition to more uplifting songs. This validates your current emotions while gently guiding you toward a different state. Create playlists for different emotional transitions. Music directly affects the limbic system and can be a powerful tool for emotional regulation when used intentionally.",
-        "image_url": "https://example.com/images/music-therapy.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-athletes-way/202004/music-therapy-can-boost-mood-and-reduce-anxiety",
+        "title": "Pet Therapy",
+        "description": "Spending time with animals—whether cuddling a cat, walking a dog, or watching fish swim—reduces cortisol levels and provides comfort. Pets offer unconditional presence and connection, making them powerful companions for emotional regulation.",
         "id": "solution_055",
         "metadata": [
-            {"name": "emotion", "value": "various moods"},
-            {"name": "duration", "value": "15-30 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere with music"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "1"}
         ]
     },
     {
-        "title": "Mindful House Cleaning",
-        "description": "Transform cleaning tasks into mindfulness practice by focusing completely on the activity - the circular motion of wiping, the sound of the vacuum, the satisfaction of organizing. This combines productivity with meditation and can be especially satisfying when feeling emotionally cluttered. Pay attention to how your environment affects your mood and how creating order externally can create internal calm. The physical movement and visible progress can be therapeutic during emotional overwhelm.",
-        "image_url": "https://example.com/images/mindful-cleaning.jpg",
-        "external_url": "https://www.mindful.org/cleaning-as-meditation/",
+        "title": "Mindful Commuting",
+        "description": "If you’re traveling, use the time as a mindfulness practice. Notice your surroundings, sensations of movement, and breathing instead of defaulting to autopilot. This turns routine travel into an opportunity for grounding and stress reduction.",
         "id": "solution_056",
         "metadata": [
-            {"name": "emotion", "value": "feeling scattered"},
-            {"name": "duration", "value": "15-60 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "home"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Emotional Release Writing",
-        "description": "Write continuously for 20 minutes about your deepest thoughts and feelings regarding a specific situation or emotion. Don't worry about grammar, spelling, or making sense. Let your thoughts flow freely onto paper. After writing, you can choose to keep it, analyze it for insights, or safely destroy it. This practice helps externalize internal conflicts and often provides unexpected clarity. The act of putting emotions into words helps process and integrate difficult experiences.",
-        "image_url": "https://example.com/images/emotional-writing.jpg",
-        "external_url": "https://www.apa.org/monitor/jun02/writing",
+        "title": "Aromatherapy Pause",
+        "description": "Use calming scents like lavender, eucalyptus, or bergamot with essential oils or candles. Aromatherapy can shift mood quickly by engaging the olfactory system, which is closely linked to emotion and memory. It’s an easy way to create a calming environment.",
         "id": "solution_057",
         "metadata": [
-            {"name": "emotion", "value": "emotional overwhelm"},
-            {"name": "duration", "value": "20 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Gentle Self-Massage",
-        "description": "Use your hands to gently massage your temples, neck, shoulders, or any areas of tension. Focus on the sensation of touch and the gradual release of physical stress. This combines self-care with mindfulness and activates the parasympathetic nervous system. Pay attention to areas where you hold emotional stress physically. The self-touch helps regulate emotions while addressing physical tension. This practice can be done clothed and in public spaces discretely.",
-        "image_url": "https://example.com/images/self-massage.jpg",
-        "external_url": "https://www.healthline.com/health/fitness/self-massage-techniques",
+        "title": "Writing a Future Self Letter",
+        "description": "Compose a letter to your future self, reflecting on your current challenges and hopes. This practice builds perspective, provides encouragement, and fosters resilience by reminding you that your struggles are temporary and growth is ongoing.",
         "id": "solution_058",
         "metadata": [
-            {"name": "emotion", "value": "physical tension"},
-            {"name": "duration", "value": "5-15 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere seated"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Gratitude Photo Practice",
-        "description": "Take photos of things that spark gratitude throughout your day - a beautiful flower, your morning coffee, a friend's smile, a comfortable chair. Review these images in the evening, remembering the positive feelings associated with each moment. This practice trains your brain to notice positive aspects of daily life and creates a visual gratitude journal. The act of looking for photo opportunities keeps you alert to beauty and goodness around you.",
-        "image_url": "https://example.com/images/gratitude-photos.jpg",
-        "external_url": "https://greatergood.berkeley.edu/article/item/how_photos_can_help_you_appreciate_your_life",
+        "title": "Mindful Sipping",
+        "description": "Pick a beverage—tea, coffee, or water—and drink it slowly with full attention. Notice the temperature, taste, and texture with each sip. This small act creates a moment of mindfulness and calm in the middle of a busy day.",
         "id": "solution_059",
         "metadata": [
-            {"name": "emotion", "value": "negativity bias"},
-            {"name": "duration", "value": "ongoing + 10 minutes review"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "1"}
         ]
     },
     {
-        "title": "Emotional State Anchoring",
-        "description": "When experiencing a positive emotional state, create a physical anchor - touch your thumb to your index finger, place your hand on your heart, or use a specific gesture. Practice this anchor repeatedly during positive moments. Later, when you need to access calm or confidence, use the physical anchor to help recall that positive state. This technique creates a conditioned response that can help you access resourceful emotions on demand.",
-        "image_url": "https://example.com/images/anchoring.jpg",
-        "external_url": "https://www.nlpworld.co.uk/nlp-techniques/anchoring/",
+        "title": "Storytelling with Photos",
+        "description": "Look through old photos and create a story about them—either aloud, in writing, or just in your imagination. Revisiting memories fosters nostalgia, strengthens identity, and can boost mood by recalling meaningful moments.",
         "id": "solution_060",
         "metadata": [
-            {"name": "emotion", "value": "need for quick access to calm"},
-            {"name": "duration", "value": "practice in positive moments"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Belly Laugh Practice",
-        "description": "Intentionally engage in activities that make you laugh deeply - funny videos, comedy shows, silly games with friends, or even forcing yourself to laugh out loud for 2 minutes. Deep belly laughter releases endorphins, reduces stress hormones, and boosts immune function. Even fake laughter provides physiological benefits and often becomes genuine. This practice is particularly effective for depression and can shift your entire emotional state quickly.",
-        "image_url": "https://example.com/images/belly-laugh.jpg",
-        "external_url": "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-relief/art-20044456",
+        "title": "Sound Bath Meditation",
+        "description": "Lie down comfortably while listening to resonant sounds from singing bowls, gongs, or chimes. The vibrations help slow brainwave activity, guiding you into a state of deep relaxation. Sound baths can help calm anxiety, reduce stress, and bring emotional balance. You don’t need any special equipment—recordings work well if live sessions aren’t available.",
         "id": "solution_061",
         "metadata": [
-            {"name": "emotion", "value": "heaviness"},
-            {"name": "duration", "value": "5-20 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "private or social space"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "5"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "5"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Mindful Water Connection",
-        "description": "Spend time consciously connecting with water - take a mindful shower focusing on the sensation, listen to running water sounds, or sit by a fountain or stream. Water has naturally calming properties and can help wash away emotional residue. Pay attention to the temperature, sound, and feel of water. This practice is grounding and can help when feeling emotionally stuck or overwhelmed. The flowing nature of water can inspire emotional flow and release.",
-        "image_url": "https://example.com/images/water-connection.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-athletes-way/201504/blue-mind-the-surprising-science-that-shows-how-being-near",
+        "title": "Walking Meditation",
+        "description": "Instead of sitting still, bring mindfulness into slow, deliberate walking. Focus on each step, the feeling of your feet meeting the ground, and the rhythm of your breath. This practice provides grounding and clarity while offering light movement, making it especially beneficial when you feel restless but emotionally heavy.",
         "id": "solution_062",
         "metadata": [
-            {"name": "emotion", "value": "emotional stagnation"},
-            {"name": "duration", "value": "10-30 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "bathroom/outdoors"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Inner Child Dialogue",
-        "description": "Have a conversation with your inner child when feeling hurt or scared. Ask what that younger part of you needs and respond with the kindness and protection you would offer a real child. This practice helps heal old wounds and provides comfort during emotional distress. You might write the dialogue, speak out loud, or have the conversation mentally. Imagine offering your inner child exactly what they needed but didn't receive. This technique can be particularly powerful for addressing core emotional wounds.",
-        "image_url": "https://example.com/images/inner-child.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-many-faces-addiction/201006/inner-child-work",
+        "title": "Vision Board Creation",
+        "description": "Collect images, words, and symbols that represent goals or values you want to cultivate. Arrange them into a collage—either digitally or on paper. This creative exercise shifts focus from current stressors to future possibilities, fostering hope and motivation. The act of visualizing desired outcomes can also reframe your emotional state toward optimism.",
         "id": "solution_063",
         "metadata": [
-            {"name": "emotion", "value": "childhood wounds"},
-            {"name": "duration", "value": "10-20 minutes"},
-            {"name": "difficulty", "value": "advanced"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "4"}
         ]
     },
     {
-        "title": "Mindful Transition Rituals",
-        "description": "Create small rituals to mark transitions between activities or emotional states - lighting a candle when starting work, taking three breaths before entering your home, or washing your hands mindfully between tasks. These rituals help you shift gears emotionally and mentally. They create boundaries between different parts of your day and can prevent emotions from one situation bleeding into another. Simple rituals provide structure and help process emotional shifts.",
-        "image_url": "https://example.com/images/transition-ritual.jpg",
-        "external_url": "https://www.mindful.org/how-to-create-mindful-transitions/",
+        "title": "Tai Chi Flow",
+        "description": "Practice a sequence of slow, flowing movements that combine gentle exercise with meditative awareness. Tai Chi enhances balance, lowers stress, and helps regulate breathing. Its rhythmic, circular motions provide both physical grounding and emotional calm, making it especially effective for managing stress without overexertion.",
         "id": "solution_064",
         "metadata": [
-            {"name": "emotion", "value": "transition stress"},
-            {"name": "duration", "value": "1-5 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Emotional Regulation Breathing",
-        "description": "Practice 4-7-8 breathing: inhale for 4 counts, hold for 7 counts, exhale for 8 counts. This specific pattern activates the parasympathetic nervous system and can quickly calm anxiety or emotional overwhelm. The longer exhale is particularly important for triggering the relaxation response. Practice this technique regularly when calm so it's available during stressful moments. Start with 4 cycles and gradually increase as the technique becomes familiar.",
-        "image_url": "https://example.com/images/478-breathing.jpg",
-        "external_url": "https://www.healthline.com/health/4-7-8-breathing",
+        "title": "Pet Bonding Time",
+        "description": "Spend quality time with a pet—whether it’s playing, petting, or simply sitting quietly together. Interacting with animals can reduce cortisol levels and release oxytocin, fostering feelings of calm and connection. Pets offer unconditional companionship and can ground you when emotions feel overwhelming.",
         "id": "solution_065",
         "metadata": [
-            {"name": "emotion", "value": "acute stress"},
-            {"name": "duration", "value": "2-8 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "3"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Sensory Grounding Kit",
-        "description": "Create a small kit with items that engage different senses for grounding during emotional distress - peppermint oil for smell, a soft fabric for touch, calming music for hearing, a photo for sight, and mints for taste. Keep this kit accessible and use it when feeling overwhelmed or disconnected. The multi-sensory approach helps anchor you in the present moment and can interrupt panic or dissociation. Customize your kit based on your personal preferences and triggers.",
-        "image_url": "https://example.com/images/sensory-kit.jpg",
-        "external_url": "https://www.verywellmind.com/grounding-techniques-for-ptsd-2797300",
+        "title": "Visualization Journey",
+        "description": "Close your eyes and imagine a safe, peaceful place in vivid detail. Engage all senses—smell the air, feel the textures, hear the background sounds. Visualization can transport the mind away from stress and foster emotional regulation. Guided recordings can support this practice if focus is difficult on your own.",
         "id": "solution_066",
         "metadata": [
-            {"name": "emotion", "value": "panic"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere with kit"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Forgiveness Meditation",
-        "description": "Start by forgiving yourself for small mistakes, then gradually work toward bigger issues or forgiving others. Begin with phrases like 'I forgive myself for being human and making mistakes.' This isn't about condoning harmful behavior but releasing the emotional burden of resentment. Forgiveness is primarily for your own well-being. Practice this regularly with minor daily irritations to build your forgiveness capacity for larger issues. The process often takes time and repetition.",
-        "image_url": "https://example.com/images/forgiveness-meditation.jpg",
-        "external_url": "https://greatergood.berkeley.edu/article/item/nine_steps_to_forgiveness",
+        "title": "Creative Writing Prompt",
+        "description": "Pick a random writing prompt and let your imagination explore it. Creative writing encourages expression in a playful, non-judgmental way. It’s helpful for channeling strong emotions into stories, poems, or reflections. The process can unlock catharsis and shift mood through creativity.",
         "id": "solution_067",
         "metadata": [
-            {"name": "emotion", "value": "resentment"},
-            {"name": "duration", "value": "15-30 minutes"},
-            {"name": "difficulty", "value": "advanced"},
-            {"name": "location", "value": "quiet space"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "4"}
         ]
     },
     {
-        "title": "Energy Protection Visualization",
-        "description": "Imagine surrounding yourself with a protective bubble or shield of light before entering challenging situations or after difficult interactions. Visualize this protective barrier keeping negative energy away while allowing positive energy in. This practice can help sensitive people maintain emotional boundaries and reduce the impact of others' emotions on their well-being. Practice this technique before social events, meetings, or when entering environments that typically drain your energy.",
-        "image_url": "https://example.com/images/energy-protection.jpg",
-        "external_url": "https://chopra.com/articles/how-to-protect-your-energy",
+        "title": "Laughter Yoga",
+        "description": "Engage in intentional laughter exercises, often combined with deep breathing. Even forced laughter quickly becomes genuine, releasing endorphins and reducing stress hormones. This activity boosts mood while requiring little effort and can be done alone or with others.",
         "id": "solution_068",
         "metadata": [
-            {"name": "emotion", "value": "energetic overwhelm"},
-            {"name": "duration", "value": "3-5 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "3"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "4"}
         ]
     },
     {
-        "title": "Mindful Waiting Practice",
-        "description": "Transform waiting periods - in lines, traffic, or appointments - into mindfulness opportunities instead of sources of frustration. Focus on your breath, observe your surroundings with curiosity, or practice gratitude. This reframes potentially annoying situations as gifts of present-moment awareness. Notice how the shift from impatience to acceptance changes your entire experience. These frequent mini-practices throughout the day can significantly improve your overall emotional state.",
-        "image_url": "https://example.com/images/mindful-waiting.jpg",
-        "external_url": "https://www.mindful.org/how-to-turn-waiting-into-meditation/",
+        "title": "Scent Therapy",
+        "description": "Use calming essential oils such as lavender, chamomile, or eucalyptus in a diffuser or applied topically with a carrier oil. Aromatherapy can soothe nerves, improve focus, and promote emotional balance. Pairing scent with a calming routine reinforces the association of peace and safety.",
         "id": "solution_069",
         "metadata": [
-            {"name": "emotion", "value": "impatience"},
-            {"name": "duration", "value": "variable"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere you wait"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Heart Math Technique",
-        "description": "Place your attention on your heart area and breathe slowly and deeply. As you breathe, imagine the breath coming in and out through your heart. Try to activate a positive feeling like gratitude or compassion while maintaining this heart-focused breathing. This technique helps achieve heart rate variability coherence, which improves emotional regulation and reduces stress. Practice for 3-5 minutes several times daily for best results.",
-        "image_url": "https://example.com/images/heart-math.jpg",
-        "external_url": "https://www.heartmath.org/resources/downloads/quick-coherence-technique/",
+        "title": "Coloring for Calm",
+        "description": "Adult coloring books or mandalas provide a low-pressure creative outlet. The repetitive motion of coloring can lower anxiety and encourage mindfulness. Choosing colors and filling spaces offers a sense of control and can soothe agitation, making it an ideal activity for emotional reset.",
         "id": "solution_070",
         "metadata": [
-            {"name": "emotion", "value": "stress"},
-            {"name": "duration", "value": "3-5 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Emotional State Journaling",
-        "description": "Track your emotional states throughout the day using a simple rating system (1-10) and note triggers, duration, and what helped shift the emotion. This practice increases emotional awareness and helps identify patterns. Include physical sensations, thoughts, and environmental factors. Over time, you'll develop better insight into your emotional patterns and more effective coping strategies. The awareness itself often reduces the intensity of difficult emotions.",
-        "image_url": "https://example.com/images/emotion-tracking.jpg",
-        "external_url": "https://www.verywellmind.com/how-to-use-a-mood-journal-5078174",
+        "title": "Declutter a Small Space",
+        "description": "Choose a drawer, shelf, or small corner to tidy. The act of organizing and clearing physical clutter often mirrors emotional relief. Tackling a manageable space avoids overwhelm and provides a quick sense of accomplishment, improving mood and focus.",
         "id": "solution_071",
         "metadata": [
-            {"name": "emotion", "value": "emotional awareness"},
-            {"name": "duration", "value": "5-10 minutes daily"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Pendulum Breathing",
-        "description": "Imagine your breath as a pendulum swinging back and forth. As you inhale, visualize the pendulum swinging to one side; as you exhale, see it swinging to the other side. This rhythmic visualization helps regulate breathing and creates a meditative state. The pendulum image naturally slows and deepens your breath. This technique is particularly helpful for anxiety or when your mind is racing, as the visual focus calms mental chatter.",
-        "image_url": "https://example.com/images/pendulum-breathing.jpg",
-        "external_url": "https://www.mindful.org/breath-awareness-meditation/",
+        "title": "Singing Release",
+        "description": "Sing along to a favorite song at full volume. Singing activates breath control, releases endorphins, and provides a cathartic release of emotion. It’s especially effective for shaking off frustration or sadness, transforming raw feelings into expressive sound.",
         "id": "solution_072",
         "metadata": [
-            {"name": "emotion", "value": "racing mind"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "4"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "3"},
+            {"name": "recovery need", "value": "1"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Compliment Meditation",
-        "description": "Spend 10 minutes genuinely appreciating yourself - your efforts, qualities, achievements, and growth. This isn't about ego inflation but recognizing your inherent worth and efforts. Start with small things and build to bigger appreciations. Many people find this more challenging than criticizing themselves, which highlights the need for the practice. This builds self-esteem and counters the inner critic that contributes to anxiety and depression.",
-        "image_url": "https://example.com/images/self-appreciation.jpg",
-        "external_url": "https://self-compassion.org/exercise-5-self-appreciation/",
+        "title": "Dance Improvisation",
+        "description": "Put on music and let your body move freely without structure. Improvised dance promotes emotional release, physical activation, and joy. It doesn’t need to look polished—it’s about channeling what you feel into movement and allowing your body to express emotions that words cannot.",
         "id": "solution_073",
         "metadata": [
-            {"name": "emotion", "value": "low self-worth"},
-            {"name": "duration", "value": "10 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "5"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "3"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "5"}
         ]
     },
     {
-        "title": "Emotional Release Dancing",
-        "description": "Put on music and move your body in whatever way feels natural, focusing on expressing and releasing emotions through movement. Don't worry about looking good - focus on how the movement feels. Dance can help process emotions that are hard to express verbally. Different emotions may call for different types of movement - sharp movements for anger, flowing movements for sadness, or bouncy movements for joy. This practice helps emotions move through and out of your system.",
-        "image_url": "https://example.com/images/emotional-dancing.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-athletes-way/201310/why-do-we-dance",
+        "title": "Cloud Watching",
+        "description": "Lie down outside and observe the sky. Watching clouds move naturally slows your breathing and promotes relaxation. This simple, contemplative activity connects you with nature’s pace and creates a gentle sense of wonder, offering relief from overstimulation.",
         "id": "solution_074",
         "metadata": [
-            {"name": "emotion", "value": "stuck emotions"},
-            {"name": "duration", "value": "10-30 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Mindful Facial Relaxation",
-        "description": "Systematically relax all the muscles in your face - your forehead, around your eyes, cheeks, jaw, and tongue. Many people hold tension in facial muscles without realizing it. Start by intentionally tensing each area, then releasing. This practice can quickly reduce overall stress and is particularly helpful for headaches or jaw tension. The face holds many emotional expressions, so relaxing these muscles can help release stored emotional tension.",
-        "image_url": "https://example.com/images/facial-relaxation.jpg",
-        "external_url": "https://www.verywellmind.com/how-do-i-practice-progressive-muscle-relaxation-3024400",
+        "title": "Storytelling with a Friend",
+        "description": "Call or meet a friend and share a personal story—whether funny, meaningful, or reflective. Storytelling deepens connection, provides perspective, and helps process emotions through narrative. Listening in return strengthens empathy and nurtures social bonds.",
         "id": "solution_075",
         "metadata": [
-            {"name": "emotion", "value": "facial tension"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "4"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Future Self Visualization",
-        "description": "Imagine yourself one, five, or ten years in the future having successfully worked through your current challenges. See yourself as wiser, more peaceful, and emotionally resilient. What advice would this future self give you? What do they know that you don't yet? This practice provides hope and perspective during difficult times. It also helps you make decisions aligned with your long-term well-being rather than just immediate comfort.",
-        "image_url": "https://example.com/images/future-self.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-science-behind-behavior/201507/the-power-time-perspective",
+        "title": "Warm Bath Soak",
+        "description": "Immerse yourself in a warm bath with calming scents or Epsom salts. Warm water relaxes muscles, lowers blood pressure, and signals the body to unwind. This quiet, soothing ritual is an effective way to release built-up emotional and physical stress.",
         "id": "solution_076",
         "metadata": [
-            {"name": "emotion", "value": "feeling stuck"},
-            {"name": "duration", "value": "15-20 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "quiet space"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "5"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Emotional Aikido Practice",
-        "description": "When someone directs negative energy at you, practice mentally redirecting it rather than absorbing or reflecting it back. Imagine their negativity flowing around you like water around a rock. This technique helps you stay centered during conflict and prevents others' emotions from destabilizing you. The goal isn't to be cold or unempathetic, but to maintain your emotional equilibrium while still being present and compassionate.",
-        "image_url": "https://example.com/images/emotional-aikido.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/emotional-fitness/201203/emotional-aikido-the-practice-not-taking-things-personally",
+        "title": "Breath Counting Meditation",
+        "description": "Focus attention by counting each breath cycle up to ten, then restarting. If the mind wanders, gently return to counting. This practice stabilizes concentration, reduces mental clutter, and offers calm during emotionally turbulent states.",
         "id": "solution_077",
         "metadata": [
-            {"name": "emotion", "value": "interpersonal conflict"},
-            {"name": "duration", "value": "in-the-moment practice"},
-            {"name": "difficulty", "value": "advanced"},
-            {"name": "location", "value": "social situations"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "1"}
         ]
     },
     {
-        "title": "Worry Time Technique",
-        "description": "Designate a specific 15-20 minute period each day as your official 'worry time.' When worries arise outside this time, write them down to address during your worry period. During worry time, review your list and either take action on solvable problems or practice acceptance of unsolvable ones. This technique prevents worries from taking over your entire day while ensuring they're still addressed. It often makes worries seem smaller when confined to a specific timeframe.",
-        "image_url": "https://example.com/images/scheduled-worry.jpg",
-        "external_url": "https://www.anxietycanada.com/articles/how-to-do-worry-time/",
+        "title": "Photography Walk",
+        "description": "Take a walk with a camera or phone, focusing on capturing details you normally overlook—textures, colors, or shapes. Shifting attention to observation fosters mindfulness and reframes the environment as a source of beauty and interest, which can uplift mood and ease emotional heaviness.",
         "id": "solution_078",
         "metadata": [
-            {"name": "emotion", "value": "chronic worry"},
-            {"name": "duration", "value": "15-20 minutes daily"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "designated worry space"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "4"}
         ]
     },
     {
-        "title": "Mindful Technology Transition",
-        "description": "Before and after using technology, take three conscious breaths and set an intention. Notice how you feel before engaging with screens and check in again afterward. This practice helps prevent mindless scrolling and reduces the anxiety that can come from constant connectivity. Create brief pauses that allow you to use technology more intentionally rather than as an escape mechanism. The awareness often naturally reduces excessive screen time.",
-        "image_url": "https://example.com/images/mindful-tech.jpg",
-        "external_url": "https://www.mindful.org/how-to-use-your-smartphone-mindfully/",
+        "title": "Herbal Tea Ritual",
+        "description": "Prepare a cup of calming tea such as chamomile, peppermint, or lemon balm. Pay attention to each step—the aroma, the warmth, and the slow sipping. Transforming a simple act into a mindful ritual provides grounding and comfort, reducing stress and helping you feel nurtured.",
         "id": "solution_079",
         "metadata": [
-            {"name": "emotion", "value": "digital anxiety"},
-            {"name": "duration", "value": "1-2 minutes each transition"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere with technology"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "1"}
         ]
     },
     {
-        "title": "Emotional State Shifting",
-        "description": "Practice deliberately shifting from one emotional state to another using a combination of breathing, posture, and mental focus. If feeling sad, sit up straighter, take deeper breaths, and recall a positive memory. This technique teaches you that emotions are not fixed states but can be influenced through conscious action. The more you practice during neutral moments, the more effective it becomes during challenging times.",
-        "image_url": "https://example.com/images/state-shifting.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-athletes-way/201601/how-does-conscious-breathing-affect-emotional-responses",
+        "title": "Puzzle Challenge",
+        "description": "Engage your mind with a jigsaw puzzle, crossword, or logic game. Puzzles provide focus and structure, distracting from emotional distress while fostering a sense of accomplishment. They are especially helpful when you want low-stakes mental stimulation.",
         "id": "solution_080",
         "metadata": [
-            {"name": "emotion", "value": "low mood"},
-            {"name": "duration", "value": "3-5 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Compassionate Observer Practice",
-        "description": "Practice observing your thoughts and emotions from the perspective of a wise, loving observer rather than being caught up in them. When difficult emotions arise, mentally step back and notice them with curiosity and kindness rather than judgment. This creates emotional distance and reduces the intensity of difficult feelings. The observer part of you remains stable even when emotions are turbulent. This practice builds emotional resilience over time.",
-        "image_url": "https://example.com/images/observer-self.jpg",
-        "external_url": "https://www.mindful.org/the-space-between-self-and-experience/",
+        "title": "Mindful Gardening",
+        "description": "Spend time tending to plants, whether watering, pruning, or simply touching the soil. Gardening provides grounding, reduces stress, and strengthens a sense of connection to nature. Even small indoor plants can offer the same soothing effect and emotional stability.",
         "id": "solution_081",
         "metadata": [
-            {"name": "emotion", "value": "emotional overwhelm"},
-            {"name": "duration", "value": "5-15 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "quiet space"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Quick Reset Technique",
-        "description": "When feeling emotionally activated, quickly reset by changing three things: your posture, your breathing, and your mental focus. Stand up if sitting, take five deep breaths, and think of something you're grateful for. This rapid intervention can prevent emotional escalation and help you respond rather than react to challenging situations. Practice this sequence until it becomes automatic, so it's available when you need it most.",
-        "image_url": "https://example.com/images/quick-reset.jpg",
-        "external_url": "https://www.verywellmind.com/how-to-reset-your-mood-5224804",
+        "title": "Gratitude Jar",
+        "description": "Write down one thing you’re grateful for on a small piece of paper and place it in a jar. Over time, the jar becomes a visual reminder of positivity and resilience. Returning to it during tough times reinforces hope and balance.",
         "id": "solution_082",
         "metadata": [
-            {"name": "emotion", "value": "emotional reactivity"},
-            {"name": "duration", "value": "1-2 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "1"}
         ]
     },
     {
-        "title": "Emotional Granularity Practice",
-        "description": "Instead of using general emotion words like 'good' or 'bad,' practice identifying specific emotions with precision. Are you frustrated, disappointed, or overwhelmed? Excited, content, or hopeful? Research shows that people who can identify emotions specifically (emotional granularity) have better emotional regulation and mental health. Keep an emotion wheel handy and spend time learning new emotion words. This practice alone can reduce the intensity of difficult emotions.",
-        "image_url": "https://example.com/images/emotion-wheel.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/prefrontal-nudity/201508/the-simple-power-labeling-your-emotions",
+        "title": "Digital Art Doodling",
+        "description": "Use a drawing app to create spontaneous art without worrying about skill. The act of doodling stimulates creativity, relieves tension, and transforms scattered emotions into playful visual expression.",
         "id": "solution_083",
         "metadata": [
-            {"name": "emotion", "value": "emotional confusion"},
-            {"name": "duration", "value": "2-5 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "4"}
         ]
     },
     {
-        "title": "Silent Gratitude Practice",
-        "description": "Throughout your day, silently say 'thank you' for small things - your morning coffee, a comfortable chair, working traffic lights, or a friend's text message. This practice trains your brain to notice positive aspects of life automatically. The key is to feel genuine appreciation, even for mundane things. This rewires your brain toward positivity and can significantly improve mood over time. The practice is discrete and can be done anywhere.",
-        "image_url": "https://example.com/images/silent-gratitude.jpg",
-        "external_url": "https://greatergood.berkeley.edu/article/item/how_gratitude_changes_you_and_your_brain",
+        "title": "Candle Gazing",
+        "description": "Focus on the flame of a candle for several minutes. The gentle flicker provides a meditative anchor, calming restless thoughts and enhancing concentration. This technique is simple yet deeply effective for emotional reset.",
         "id": "solution_084",
         "metadata": [
-            {"name": "emotion", "value": "negativity"},
-            {"name": "duration", "value": "ongoing throughout day"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Emotional Boundary Visualization",
-        "description": "Visualize healthy boundaries around yourself using imagery that feels protective and permeable - perhaps a garden fence that keeps out weeds but lets in sunlight, or a semi-permeable membrane that filters what enters your emotional space. Practice seeing negative energy bouncing off while positive energy flows through. This technique helps sensitive people maintain emotional health in challenging environments while remaining open to connection.",
-        "image_url": "https://example.com/images/emotional-boundaries.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/click-here-happiness/201909/emotional-boundaries-101",
+        "title": "Affirmation Repetition",
+        "description": "Choose a short positive phrase such as 'I am safe' or 'I am capable' and repeat it aloud or silently. Affirmations rewire thought patterns, build self-compassion, and reduce negative self-talk, strengthening emotional resilience.",
         "id": "solution_085",
         "metadata": [
-            {"name": "emotion", "value": "emotional overwhelm from others"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "1"}
         ]
     },
     {
-        "title": "Mindful Morning Routine",
-        "description": "Create a morning routine that includes at least three mindful activities - perhaps mindful teeth brushing, conscious coffee making, and three minutes of breathing or stretching. This sets a positive tone for your entire day and builds resilience for whatever challenges arise. Keep the routine simple enough to be sustainable. The key is consistency rather than complexity. A mindful morning helps you start from a centered place rather than rushing into stress.",
-        "image_url": "https://example.com/images/mindful-morning.jpg",
-        "external_url": "https://www.mindful.org/5-ways-to-start-your-day-mindfully/",
+        "title": "Origami Folding",
+        "description": "Folding paper into simple shapes focuses the mind on precision and sequence, creating calm through structured creativity. The tactile activity reduces anxiety while providing a sense of accomplishment when the figure is complete.",
         "id": "solution_086",
         "metadata": [
-            {"name": "emotion", "value": "morning anxiety"},
-            {"name": "duration", "value": "15-30 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "home"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "3"}
         ]
     },
     {
-        "title": "Emotional Freedom Tapping",
-        "description": "Tap specific acupressure points while stating your emotional issue and positive affirmations. Start by tapping the side of your hand while saying 'Even though I feel [emotion], I deeply and completely accept myself.' Then tap points on your head and torso while repeating positive statements. This technique, rooted in energy psychology, can quickly reduce emotional intensity. Many people report immediate relief from anxiety, anger, or overwhelming emotions.",
-        "image_url": "https://example.com/images/eft-tapping.jpg",
-        "external_url": "https://www.thetappingsolution.com/what-is-eft-tapping/",
+        "title": "Morning Sunlight Ritual",
+        "description": "Step outside in the morning for at least 10 minutes of natural sunlight. Exposure to early light regulates circadian rhythms, boosts serotonin, and gently energizes mood, making it an ideal habit for emotional stability.",
         "id": "solution_087",
         "metadata": [
-            {"name": "emotion", "value": "intense negative emotions"},
-            {"name": "duration", "value": "5-15 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "private space"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Mindful Evening Wind-Down",
-        "description": "Create an evening routine that helps you transition from day stress to peaceful rest. This might include dimming lights, gentle stretching, writing three good things from your day, or practicing gratitude. Avoid screens for at least 30 minutes before bed. This routine signals to your nervous system that it's time to relax and helps process the day's emotions. Consistent evening practices can significantly improve sleep quality and emotional well-being.",
-        "image_url": "https://example.com/images/evening-routine.jpg",
-        "external_url": "https://www.sleepfoundation.org/how-sleep-works/why-do-we-need-sleep",
+        "title": "Digital Decluttering",
+        "description": "Organize your phone or computer—delete unused apps, clean your inbox, or rearrange files. Decluttering digital spaces reduces cognitive load and provides a subtle emotional lift from regained order and clarity.",
         "id": "solution_088",
         "metadata": [
-            {"name": "emotion", "value": "evening anxiety"},
-            {"name": "duration", "value": "20-45 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "home"}
+            {"name": "energy", "value": "3"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Emotional Alchemist Practice",
-        "description": "Practice transforming difficult emotions into wisdom or strength. When experiencing anger, ask what boundary needs to be set. When feeling sadness, consider what needs nurturing. When anxious, explore what needs attention or preparation. This reframes negative emotions as messengers rather than problems to eliminate. The practice helps you work with emotions constructively rather than just trying to make them go away. Over time, you develop appreciation for the wisdom emotions provide.",
-        "image_url": "https://example.com/images/emotional-alchemy.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/emotional-fitness/201011/emotional-alchemy-transforming-anger-wisdom",
+        "title": "Story Reading Aloud",
+        "description": "Read a short story or passage aloud, even if just to yourself. The rhythm of speech and engagement of voice creates grounding while enhancing comprehension. It can also shift emotional states by immersing you in narrative flow.",
         "id": "solution_089",
         "metadata": [
-            {"name": "emotion", "value": "difficult emotions"},
-            {"name": "duration", "value": "10-15 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "reflective space"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "1"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Present Moment Anchor",
-        "description": "Choose a regular activity as your present moment anchor - perhaps washing dishes, walking to the mailbox, or brushing your teeth. Every time you engage in this activity, use it as a reminder to come fully into the present moment. Pay attention to all the sensory details of the activity. This creates multiple opportunities throughout your day to return to mindfulness and can help interrupt worry or rumination patterns.",
-        "image_url": "https://example.com/images/present-anchor.jpg",
-        "external_url": "https://www.mindful.org/how-to-anchor-yourself-in-the-present-moment/",
+        "title": "Nature Sound Immersion",
+        "description": "Listen to recordings of rain, ocean waves, or forest birds. Natural soundscapes create relaxation, reduce anxiety, and mimic the restorative qualities of outdoor environments, even when you can’t access them directly.",
         "id": "solution_090",
         "metadata": [
-            {"name": "emotion", "value": "mental wandering"},
-            {"name": "duration", "value": "duration of chosen activity"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "wherever anchor activity occurs"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "1"}
         ]
     },
     {
-        "title": "Emotional Release Through Voice",
-        "description": "Use your voice to release emotions - hum when sad, growl when angry, sigh deeply when stressed, or laugh when joyful. Sound naturally accompanies emotion, and allowing vocal expression can help emotions move through your system more completely. You can do this quietly or, in private spaces, more loudly. The vibrations of sound in your body have a naturally regulating effect on the nervous system.",
-        "image_url": "https://example.com/images/vocal-release.jpg",
-        "external_url": "https://www.psychologytoday.com/us/blog/the-athletes-way/201510/humming-and-singing-boost-happiness-and-well-being",
+        "title": "Memory Scrapbooking",
+        "description": "Compile photos, mementos, or short notes into a scrapbook. Revisiting positive memories can bring comfort, evoke joy, and remind you of supportive relationships, making this an emotionally grounding practice.",
         "id": "solution_091",
         "metadata": [
-            {"name": "emotion", "value": "suppressed emotions"},
-            {"name": "duration", "value": "2-5 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "private space or quiet humming anywhere"}
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
         ]
     },
     {
-        "title": "Mindful Problem Solving",
-        "description": "When facing a challenging problem, take five minutes to sit quietly and breathe before attempting to solve it. This calms the nervous system and allows access to creative problem-solving abilities. Often our best solutions come when we're relaxed rather than stressed. After the mindful pause, approach the problem with curiosity rather than anxiety. This technique helps you respond from wisdom rather than react from fear.",
-        "image_url": "https://example.com/images/mindful-problem-solving.jpg",
-        "external_url": "https://www.mindful.org/how-mindfulness-can-improve-your-problem-solving/",
+        "title": "Chair Yoga",
+        "description": "Practice gentle stretches and poses while seated. Chair yoga is accessible, low effort, and helps ease muscle tension while calming the nervous system. It’s ideal for when energy is low but emotional grounding is needed.",
         "id": "solution_092",
         "metadata": [
-            {"name": "emotion", "value": "problem-solving stress"},
-            {"name": "duration", "value": "5-10 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "quiet space"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "1"}
         ]
     },
     {
-        "title": "Emotional Weather Report",
-        "description": "Several times a day, briefly check in with your emotional 'weather' - are you experiencing stormy anger, cloudy confusion, sunny contentment, or foggy uncertainty? This metaphor helps create healthy distance from intense emotions and reminds you that emotional states, like weather, are temporary and constantly changing. Keep brief notes to identify patterns and triggers over time.",
-        "image_url": "https://example.com/images/emotion-weather.jpg",
-        "external_url": "https://www.mindful.org/emotional-weather-report/",
+        "title": "Cooking Something New",
+        "description": "Experiment with a recipe you’ve never tried before. The novelty stimulates curiosity and excitement, while the process engages senses and rewards effort with something tangible and delicious at the end.",
         "id": "solution_093",
         "metadata": [
-            {"name": "emotion", "value": "emotional overwhelm"},
-            {"name": "duration", "value": "1-2 minutes"},
-            {"name": "difficulty", "value": "beginner"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "4"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "5"}
         ]
     },
     {
-        "title": "Compassionate Letter Writing",
-        "description": "Write a letter to yourself from the perspective of a wise, loving friend who understands your struggles completely. What would this compassionate friend say about your current challenges? How would they encourage you? This practice helps access your inner wisdom and provides self-compassion during difficult times. Keep the letter to read when you need encouragement. Many people find this more effective than trying to generate self-compassion directly.",
-        "image_url": "https://example.com/images/compassionate-letter.jpg",
-        "external_url": "https://self-compassion.org/exercise-4-supportive-touch/",
+        "title": "Silent Observation",
+        "description": "Sit quietly and observe your environment without labeling or judging. This mindful presence sharpens awareness and brings calm detachment from inner turbulence, offering clarity and emotional ease.",
         "id": "solution_094",
         "metadata": [
-            {"name": "emotion", "value": "self-criticism"},   
-            {"name": "duration", "value": "2-5 minutes"},
-            {"name": "difficulty", "value": "intermediate"},
-            {"name": "location", "value": "anywhere"}
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Cold Water Splash",
+        "description": "Splash cold water on your face or wrists to stimulate the vagus nerve and quickly reset stress responses. This practice energizes the body, clears mental fog, and reduces emotional overwhelm almost instantly.",
+        "id": "solution_095",
+        "metadata": [
+            {"name": "energy", "value": "4"},
+            {"name": "stress", "value": "4"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Hum to Relax",
+        "description": "Hum a steady tone for several minutes. The vibration soothes the nervous system, slows breathing, and activates relaxation responses. It’s a discreet, simple method to restore balance during anxious moments.",
+        "id": "solution_096",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "3"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Digital Journal Voice Notes",
+        "description": "Record your thoughts aloud on your phone instead of writing. Speaking freely allows emotions to flow without the filter of editing, providing quick catharsis and clarity while requiring less effort than journaling.",
+        "id": "solution_097",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "2"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "3"}
+        ]
+    },
+    {
+        "title": "Bedtime Story for Self",
+        "description": "Before bed, read yourself a calming short story or children’s book. The gentle narrative rhythm and association with comfort ease stress and prepare the mind for rest, offering a safe and nurturing close to the day.",
+        "id": "solution_098",
+        "metadata": [
+            {"name": "energy", "value": "1"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "4"},
+            {"name": "novelty appetite", "value": "2"}
+        ]
+    },
+    {
+        "title": "Stretch-and-Sigh",
+        "description": "Lift your arms overhead, stretch fully, and exhale with an audible sigh. This simple movement resets breathing patterns, eases body tension, and provides a quick emotional reset in stressful moments.",
+        "id": "solution_099",
+        "metadata": [
+            {"name": "energy", "value": "2"},
+            {"name": "stress", "value": "3"},
+            {"name": "social battery", "value": "1"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "1"}
+        ]
+    },
+    {
+        "title": "Micro Adventure",
+        "description": "Do something spontaneous and small outside your routine—like visiting a new café, taking a different walking path, or exploring a nearby neighborhood. Small adventures create novelty and can refresh emotional outlook with minimal effort.",
+        "id": "solution_100",
+        "metadata": [
+            {"name": "energy", "value": "4"},
+            {"name": "stress", "value": "2"},
+            {"name": "social battery", "value": "3"},
+            {"name": "recovery need", "value": "2"},
+            {"name": "novelty appetite", "value": "5"}
         ]
     }
 ]
