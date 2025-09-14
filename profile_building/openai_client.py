@@ -3,7 +3,7 @@ from typing import Optional, Dict, Any, List, Union
 from openai import OpenAI
 from dotenv import load_dotenv
 
-class LLMClient:
+class OpenAIClient:
     """
     A wrapper class for OpenAI API client with common LLM operations.
     Handles authentication and provides methods for text generation.
