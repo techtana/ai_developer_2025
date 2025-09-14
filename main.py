@@ -1,25 +1,60 @@
-from flask import Flask, render_template
+
+from flask import Flask, render_template, request, jsonify
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from config.config import DB_URI
 
 # Import Blueprints
-from solution_building.update_model import update_model_bp
-from profile_building.create_questionaire import create_questionaire
-from make_recommendation.make_recommendation import make_recommendation_bp
+from funcs.create_questionaire import get_most_recent_activity
+from funcs.make_recommendation import make_recommendation
+from funcs.create_profile import use_llm_1
 
 def create_app():
     app = Flask(__name__)
-    # Register Blueprints
-    app.register_blueprint(update_model_bp)
-    app.register_blueprint(make_recommendation_bp)
+    
+
+    # Set up SQLAlchemy engine and sessionmaker
+    engine = create_engine(DB_URI)
+    SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+
 
     @app.route("/", methods=["GET"])
     def index():
         return render_template("directory.html")
 
-    @app.route("/<uid>", methods=["GET"])
-    def user_index(uid):
 
-        return render_template("index.html", uid=uid)
+    @app.route("/<uid>", methods=["GET"])
+    def user(uid):
+        with SessionLocal() as session:
+            prev_rec = get_most_recent_activity(session, uid)
+            # prev_rec = {"uid": uid, "item": activity, "date": date}
+        return render_template("user.html", uid=uid, prev_rec=prev_rec)
     
+
+    @app.route('/submit', methods=['POST'])
+    def submit():
+        data = request.get_json()
+        # split data into feedback and current_state
+        feedback = {
+            'user_id': data.get("user_id", {}),
+            'feedback': data.get("prev_recommendations", {})
+        }
+        responses = {
+            'user_id': data.get("user_id", {}),
+            'response': data.get("responses", {})
+        }
+
+        # TODO @Nimesh: send response to llm #1
+        # prompt = use_llm_1(responses)
+
+
+        # TODO @Tech: send feedback and llm #1 response to llm #2
+        
+
+
+        # Here you would process the input and generate recommendations
+        return render_template("user.html", data=data)
+        
     return app
 
 
