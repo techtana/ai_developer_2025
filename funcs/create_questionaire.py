@@ -13,20 +13,19 @@ class Activity(Base):
     feedback = Column(Integer)
 
 
-example_output = {
-    "prev_recommendations": {
-        "uid": '64f8c3e2e4b0c9b1a1d2f3g4',
-        "item": "Go running for 30 minutes"
-    }
-}
+example_output = ("Go running for 30 minutes", "2025-09-14")
 
 def get_most_recent_activity(session: Session, uid: str):
-    result = (
-        session.query(Activity.activity, Activity.date)
-        .filter(Activity.uid == uid)
-        .order_by(desc(Activity.date))
-        .first()
-    )
+    # result = (
+    #     session.query(Activity.activity, Activity.date)
+    #     .filter(Activity.uid == uid)
+    #     .order_by(desc(Activity.date))
+    #     .first()
+    # )
+
+    # testing only
+    result = example_output
+
     if result:
         activity, date = result
         return {"uid": uid, "item": activity, "date": date}

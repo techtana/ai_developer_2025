@@ -24,7 +24,7 @@ def create_app():
 
 
     @app.route("/user", methods=["GET"])
-    def user(uid):
+    def user(uid='test'):
         with SessionLocal() as session:
             prev_rec = get_most_recent_activity(session, uid)
             # prev_rec = {"uid": uid, "item": activity, "date": date}
