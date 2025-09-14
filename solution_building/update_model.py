@@ -6,4 +6,4 @@ update_model_bp = Blueprint('update_model', __name__)
 def update_model():
     # Dummy implementation
     data = request.get_json()
-    return jsonify({"status": "model updated", "received": data}), 200
+    return jsonify({"status": "success", "response": data}), 200

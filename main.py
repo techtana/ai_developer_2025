@@ -2,22 +2,22 @@ from flask import Flask
 
 # Import Blueprints
 from solution_building.update_model import update_model_bp
-from profile_building.update_profile import update_profile_bp
+from profile_building.create_questionaire import create_questionaire_bp
 from make_recommendation.make_recommendation import make_recommendation_bp
 
 def create_app():
     app = Flask(__name__)
     # Register Blueprints
+    app.register_blueprint(create_questionaire_bp)
     app.register_blueprint(update_model_bp)
-    app.register_blueprint(update_profile_bp)
     app.register_blueprint(make_recommendation_bp)
 
     @app.route("/", methods=["GET"])
     def index():
         return {"message": "AI Developer 2025 Flask API is running."}
     
-
     return app
+
 
 if __name__ == "__main__":
     app = create_app()
