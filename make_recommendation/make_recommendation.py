@@ -6,4 +6,7 @@ make_recommendation_bp = Blueprint('make_recommendation', __name__)
 def make_recommendation():
     # Dummy implementation
     data = request.get_json()
+
+
+    
     return jsonify({"status": "recommendation made", "received": data}), 200
